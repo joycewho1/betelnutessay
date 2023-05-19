@@ -1,7 +1,7 @@
 # betelnutessay
 <param ve-config 
-       title="Essay Title"
-       author="Author"
+       title="Betel Nut"
+       author="Joyce Hu"
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
        layout="vertical">
        
@@ -83,6 +83,7 @@ Others are selectable using icons displayed in the top right margin of the parag
        description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection."
        license="public domain">
 <param ve-map center="Q334" zoom="11" prefer-geojson>
+<param ve-map-layer geojson url="/media/map.geojson" title="Sample Distribution1"> 
 
 # References
 
