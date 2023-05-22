@@ -58,6 +58,13 @@ As Marigowda emphases, “to attempt to write about the ceremonial uses of betel
 Both the areca nut and betel leaf have had a history of medical applications in Indian and Malay traditions. The areca nut contains ingredients including tannin and active alkaloids including arecaidine and arecoline, the latter of which has toxic properties.[^28] Aside from acting as a mouth freshener which is a crucial custom in India, burned nuts are also effective for cleaning teeth.[^29] This juxtaposes the common imagery of black stained teeth and red spittle associated with betel chewing which are not inevitable to the practice.[^30] Further, the juice of tender areca nuts is reportedly an effective laxative.[^31] In veterinary medicine, powdered areca nuts are used as an anthelmintic to eradicate tapeworms.[^32] The betel leaf also contains essential oils that are used to treat various afflictions like throat inflammation, and oil can also be added to the leaf and directly applied as a dressing to sores.[^33] Betel chewing is also viewed as a digestive aid that strengthens the stomach and a preventative measure against bowel problems like dysentery.[^34] 
 
 The areca nut is also a common ingredient in traditional Malayan medicine and crosses into the spiritual realm. For example, one medicinal manual from 1915 recorded that the betel can be chewed alongside the root of *Massoia aromatica* while repeating prayers that aim to keep the devil and illness away.[^35] Additionally, given the entangled cultural significance of the areca nut being a positive symbol that is often given and received, the refusal to receive an areca nut is viewed as symptom of illnesses attributed to evil spirits.[^36] Within the realm of divination, the spittle produced by chewing betel is used in “water-gazing” which enables a Malay wizard (*pawang, bomor*) to make diagnoses.[^37] Aside from the nut, young shoots of the areca palm were used by Malay women to induce abortions during early pregnancy.[^38]  
+
+
+## Economic Cultivation
+Given such expansive uses that led to the both the betel leaf and areca nut being incorporated into everyday life, areca palm plantations were cultivated in Singapore, and plantations often interplanted the betel vine with the areca palm.[^39] However, while the areca palm is relatively easy to cultivate, the betel vine requires significant expert knowledge for successful growth to ensure proper propagation techniques and maintaining optimal conditions.[^40] Cultivation of both species thus relied on native expertise and were for local consumption as well as for exportation to countries like India where demand exceeded local production.[^41] The decline in areca and betel plantations corresponded with the rise in the rubber industry, with a reduction of 3,935 acres dedicated to areca palm plantations between 1910 and 1918 while prices for areca nuts followed an inverse upward trend from $3 per pikul (approximately 60kg) to $4-$6 per pikul.[^42]  
+
+A variety of methods to prepare raw nuts also highlights the different uses of the areca nut and follows a similar trend across India and Malaya.[^43] Some of the main kinds of prepared nuts include whole dried nuts (*unde-adike, pinang kossi*), split or cut nuts of different variations (*battalu adike, churu-adike, lavanga-churu, pinang blah*), smoked nuts (*pinang salai*), and salted nuts (*pinang asin*).[^43]  
+
 # References
 
 [^1]: ‘Areca Catechu’, NParks, 10 December 2021, https://www.nparks.gov.sg/florafaunaweb/flora/2/5/2587.
@@ -99,3 +106,9 @@ The areca nut is also a common ingredient in traditional Malayan medicine and cr
 [^36]: Gimlette, *Malay Poisons and Charm Cures*, 42.
 [^37]: Gimlette, *Malay Poisons and Charm Cures*, 106-7.
 [^38]: Gimlette, *Malay Poisons and Charm Cures*, 206.
+[^39]: W. E. M, N. Cantley, and N. B. Dennys, ‘Notes on Economic Plants. Straits Settlements’, *Journal of The Straits Branch of The Royal Asiatic Society* 18 (1886): 328, https://biostor.org/reference/176542; Flippance, ‘Betel’, 297.
+[^40]: Flippance, ‘Betel’, 299; Marigowda, ‘The Story of Pan Chewing in India’, 191.
+[^41]: Flippance, ‘Betel’, 300; Marigowda, ‘The Story of Pan Chewing in India’, 204.
+[^42]: Flippance, ‘Betel’, 298; Shereen Tay, ‘Milestones to the Metric System’, BiblioAsia Apr-Jun 2020 (1 April 2020), https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/metric/.
+[^43]: Marigowda, ‘The Story of Pan Chewing in India’, 192-93.
+[^44]: Marigowda, ‘The Story of Pan Chewing in India’, 192-94.
