@@ -63,7 +63,13 @@ The areca nut is also a common ingredient in traditional Malayan medicine and cr
 ## Economic Cultivation
 Given such expansive uses that led to the both the betel leaf and areca nut being incorporated into everyday life, areca palm plantations were cultivated in Singapore, and plantations often interplanted the betel vine with the areca palm.[^39] However, while the areca palm is relatively easy to cultivate, the betel vine requires significant expert knowledge for successful growth to ensure proper propagation techniques and maintaining optimal conditions.[^40] Cultivation of both species thus relied on native expertise and were for local consumption as well as for exportation to countries like India where demand exceeded local production.[^41] The decline in areca and betel plantations corresponded with the rise in the rubber industry, with a reduction of 3,935 acres dedicated to areca palm plantations between 1910 and 1918 while prices for areca nuts followed an inverse upward trend from $3 per pikul (approximately 60kg) to $4-$6 per pikul.[^42]  
 
-A variety of methods to prepare raw nuts also highlights the different uses of the areca nut and follows a similar trend across India and Malaya.[^43] Some of the main kinds of prepared nuts include whole dried nuts (*unde-adike, pinang kossi*), split or cut nuts of different variations (*battalu adike, churu-adike, lavanga-churu, pinang blah*), smoked nuts (*pinang salai*), and salted nuts (*pinang asin*).[^43]  
+A variety of methods to prepare raw nuts also highlights the different uses of the areca nut and follows a similar trend across India and Malaya.[^43] Some of the main kinds of prepared nuts include whole dried nuts (*unde-adike, pinang kossi*), split or cut nuts of different variations (*battalu adike, churu-adike, lavanga-churu, pinang blah*), smoked nuts (*pinang salai*), and salted nuts (*pinang asin*).[^44]  
+
+
+## Decline of Betel Chewing in Singapore
+While betel chewing was accepted, practiced, and valued by Asian communities in Singapore throughout the 19th and 20th century, the European community generally viewed betel chewing with disdain and prejudice.[^45] They associated betel chewing with tobacco chewing which was tied to lower classes of society.[^46] Moreover, the visceral impact of stained red lips and blackened teeth associated with daily chewing were deemed “vulgar” and “foul”.[^47]
+
+Although betel chewing was first linked to oral cancer in the early 1900s and connections were increasingly made throughout the 1930s, it was not until the 1950s and 60s when sustained attention was drawn to it with newspapers frequently printing quotes from doctors stating carcinogenic links, discouraging the practice.[^48] Further, tied to broader trends of Singapore’s urbanisation and modernisation, increased attention was placed on urban hygiene.[^49] Betel chewing generates excess red spittle, and public spitting became a public health challenge that was stigmatised throughout the 1930s and 1940s.[^50] The government eventually banned spitting in public places and betel chewing declined in popularity among the younger generation until the practice became increasingly uncommon in Singapore by the 1980s.[^51]  
 
 # References
 
@@ -112,3 +118,10 @@ A variety of methods to prepare raw nuts also highlights the different uses of t
 [^42]: Flippance, ‘Betel’, 298; Shereen Tay, ‘Milestones to the Metric System’, BiblioAsia Apr-Jun 2020 (1 April 2020), https://biblioasia.nlb.gov.sg/vol-16/issue-1/apr-jun-2020/metric/.
 [^43]: Marigowda, ‘The Story of Pan Chewing in India’, 192-93.
 [^44]: Marigowda, ‘The Story of Pan Chewing in India’, 192-94.
+[^45]: ‘Chewing’, *The Singapore Free Press and Mercantile Advertiser*, 15 June 1922; Marigowda, ‘The Story of Pan Chewing in India’, 191-93; Irwell Woolf, ‘Betel: The Balm of the Indian and Malay’, *The Straits Times*, 15 September 1936, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360915-1.2.44?oref=article-citation.
+[^46]: Marigowda, ‘The Story of Pan Chewing in India’, 191-93.
+[^47]: 'Chewing'.
+[^48]: ‘Cancer Test at Varsity’, *Straits Budget*, 21 June 1956, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19560621-1.2.75?oref=article-citation; ‘Cancer and the Betel Addict’, *The Straits Times*, 2 July 1968.
+[^49]: Pakiam et al., ‘Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption’, 41-2.
+[^50]: Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’; Pakiam et al., ‘Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption’, 41-6.
+[^51] Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’; Pakiam et al., ‘Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption’, 46.
