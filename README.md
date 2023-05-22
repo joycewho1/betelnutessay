@@ -47,6 +47,7 @@ The practice of betel chewing precedes modern history, with mentions in literary
 
 The spread in the practice is attached to the high cultural and symbolic value associated with both betel chewing and the betel leaf. In the Sri Rama (Malay derivation of the Ramayana), betel chewing is a gesture of welcoming and invitation.[^18] This is paired with expressions of humility about the quality of the nut as an additional token of Malay politeness.[^19] The Sri Rama also highlights the physical effects of betel chewing, notably its “stupefying effect” which underscores the chemical properties tied to its medicinal value.[^20]  
 
+In the Malay story of Raja Donan, betel chewing is integral to betrothal procedures as a sign of devotion.[^21] Indeed, alongside the nut itself which is presented to guests during special occasions, the betel container *kotak sirih*, which holds the betel quid ingredients in different compartments, was often gifted in proposal or wedding ceremonies.[^22] Overall, both the betel quid as well as the betel leaf itself came with high symbolic social value and were regarded as tokens of friendliness, agreement, invitation, and even as a formal apology in Malay communities.[^23] 
 # References
 
 [^1]: ‘Areca Catechu’, NParks, 10 December 2021, https://www.nparks.gov.sg/florafaunaweb/flora/2/5/2587.
@@ -70,3 +71,6 @@ The spread in the practice is attached to the high cultural and symbolic value a
 [^18]: ‘Sri Rama’, Journal of the Straits Branch of the Royal Asiatic Society, 1886, 106, https://www.biodiversitylibrary.org/item/130389. 
 [^19]: 'Sri Rama', 106 
 [^20]: 'Sri Rama', 113; ‘Betel Nut’, Alcohol and Drug Foundation, 10 November 2021, https://adf.org.au/drug-facts/betel-nut/. 
+[^21]: ‘Raja Donan’, Journal of the Straits Branch of the Royal Asiatic Society 17–18 (1886): 248–55. 
+[^22]: Kennie Ting, ‘The Singapore Story through 60 Objects’, Cultural Connections IV (2019): 26, https://www.mccy.gov.sg/-/media/Mccy-Ca/Feature/Resources/Journals/Cultural-Connections-Vol-4/5-Mr-Kennie-Ting.pdf.
+[^23]: Ting, ‘The Singapore Story through 60 Objects’, 26; ‘Interesting Paan Variations’, Asian Geographic Passport, 19 December 2019; Rooney, Betel Chewing Traditions in South-East Asia, 34-35; 'Sri Rama', 106; ‘Raja Donan’, 248-55.
