@@ -12,7 +12,7 @@ The areca palm (*Areca catechu*), <param ve-image
        attribution="Franz Xaver"
        license="CC BY-SA 3.0"
        fit="contain"
-       curtain> 
+       curtain="true"> 
        <param ve-image 
        url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg"
        label="Areca or Betel-Nut Palm, Singapore"
@@ -20,12 +20,13 @@ The areca palm (*Areca catechu*), <param ve-image
        attribution="Marianne North"
        license="CC BY-NC"
        fit="contain"> also commonly known as the betel-nut palm, pinang palm, areca-nut palm, and betel palm, is a naturalised non-native palm species found in Singapore.[^1]  While the areca palm is known by the moniker ‘betel-nut palm’, this name actually derives from its long association with the vine of the pepper plant *Piper betle* L. <param ve-image 
+       curtain="true"
        url="https://upload.wikimedia.org/wikipedia/commons/5/52/Betel_Piper_betle.jpg"
        label="*Piper betle* L."
        attribution="Nayan J Nath"
        license="CC BY-SA 4.0"
        fit="contain"
-       curtain="true"> <param ve-image 
+       > <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Piper_betle_Blanco1.12.jpg"
        label="Plate of betel vine"
        description="Plate from book, estimated 1880-1883"
