@@ -45,7 +45,7 @@ While betel chewing has over time proliferated across Asia and the Pacific Islan
 ## Literary History Highlighting Cultural Traditions
 The practice of betel chewing precedes modern history, with mentions in literary traditions spanning cultures. Notably, betel chewing is mentioned in multiple passages in the Sejarah Melayu (Malay Annals) where it belonged to the aristocratic realm as a symbol of status and pleasure.[^15] However, by the 1800s in Singapore, betel chewing was a widespread practice among Indian, Malay, and Peranakan communities, with an 1827 newspaper article commenting that the “very spirited demand” had evolved into the practice becoming “quite a drug” in reference to its stimulant and addictive properties.[^16] By the 1950s, arguably at the height of the practice’s prevalence in Singapore, there was wide consensus that betel nuts were far from a luxury good and instead an integral part of daily life that transcended class boundaries.[^17] 
 
-The spread in the practice is attached to the high cultural and symbolic value associated with both betel chewing and the betel leaf. In the Sri Rama (Malay derivation of the Ramayana), betel chewing is a gesture of welcoming and invitation.  This is paired with expressions of humility about the quality of the nut as an additional token of Malay politeness.  The Sri Rama also highlights the physical effects of betel chewing, notably its “stupefying effect” which underscores the chemical properties tied to its medicinal value. 
+The spread in the practice is attached to the high cultural and symbolic value associated with both betel chewing and the betel leaf. In the Sri Rama (Malay derivation of the Ramayana), betel chewing is a gesture of welcoming and invitation.[^18] This is paired with expressions of humility about the quality of the nut as an additional token of Malay politeness.[^19] The Sri Rama also highlights the physical effects of betel chewing, notably its “stupefying effect” which underscores the chemical properties tied to its medicinal value.[^20]  
 
 # References
 
@@ -67,3 +67,6 @@ The spread in the practice is attached to the high cultural and symbolic value a
 [^15]: Anonymous, ‘Malay Annals Chapter 13’, trans. John Leyden (1821), Wikisource, https://en.wikisource.org/wiki/Malay_Annals/Chapter_13; Anonymous, ‘Malay Annals Chapter 24’, trans. John Leyden (1821), Wikisource, https://en.wikisource.org/wiki/Malay_Annals/Chapter_24.
 [^16]: ‘China Market 1827’, Singapore Chronicle and Commercial Register, 13 March 1828, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280313-1.2.6?oref=article-citation.
 [^17]: ‘Record Postwar Betel Nut Output In RI Seen’; ‘“Betel Nuts Not Luxury” Says Trader’, The Straits Times, 14 July 1953, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530714-1.2.78?oref=article-citation.
+[^18]: ‘Sri Rama’, Journal of the Straits Branch of the Royal Asiatic Society, 1886, 106, https://www.biodiversitylibrary.org/item/130389. 
+[^19]: 'Sri Rama', 106 
+[^20]: 'Sri Rama', 113; ‘Betel Nut’, Alcohol and Drug Foundation, 10 November 2021, https://adf.org.au/drug-facts/betel-nut/. 
