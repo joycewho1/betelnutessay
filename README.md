@@ -8,7 +8,7 @@
 ## Behind the “Betel-nut Palm” Moniker 
 The areca palm (*Areca catechu*), <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Areca_catechu_2.jpg"
-       label=*"Areca catechu"*
+       label="*Areca catechu*"
        attribution="Franz Xaver"
        license="CC BY-SA 3.0"
        contain
