@@ -45,7 +45,8 @@ While betel chewing has over time proliferated across Asia and the Pacific Islan
 
 [^1]: ‘Areca Catechu’, NParks, 10 December 2021, https://www.nparks.gov.sg/florafaunaweb/flora/2/5/2587.
 [^2]: F. Flippance, ‘Betel’, Gardens’ Bulletin, Straits Settlements 2 (1920): 294, https://biostor.org/reference/248522; ‘Piper Betle’, NParks, 20 April 2022, https://www.nparks.gov.sg/florafaunaweb/flora/1/4/1490.
-[^3]: George W. Staples and Robert F. Bevacqua, ‘Areca Catechu (Betel Nut Palm)’ (Species Profiles for Pacific Island Agroforestry, August 2006), 11–13, https://agroforestry.org/images/pdfs/Areca-catechu-betel-nut.pdf; ‘Record Postwar Betel Nut Output In RI Seen’, Singapore Standard, 25 June 1952, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520625-1.2.107?oref=article-citation.
+[^3]: George W. Staples and Robert F. Bevacqua, ‘Areca Catechu (Betel Nut Palm)’ (Species Profiles for Pacific Island Agroforestry, August 2006), 11–13, https://agroforestry.org/images/pdfs/Areca-catechu-betel-nut.pdf; 
+‘Record Postwar Betel Nut Output In RI Seen’, Singapore Standard, 25 June 1952, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520625-1.2.107?oref=article-citation.
 [^4]: Flippance, ‘Betel’, 296.
 [^5]: Flippance, ‘Betel’, 296.
 [^6]: ‘How to Make a Betel Quid’, The Straits Times, 13 September 1993, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930913-1.2.57.9.7?oref=article-citation. 
