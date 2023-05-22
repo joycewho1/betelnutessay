@@ -6,14 +6,11 @@
        layout="vertical"> For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
        
 ## Behind the “Betel-nut Palm” Moniker 
-The areca palm (Areca catechu), also commonly known as the betel-nut palm, pinang palm, areca-nut palm, and betel palm, is a naturalised non-native palm species found in Singapore.  While the areca palm is known by the moniker ‘betel-nut palm’, this name actually derives from its long association with the vine of the pepper plant Piper Betle L. which often grows around the areca palm.   These are two distinct species that have become intertwined both in their cultivation and in their cultural uses throughout the region. To uncover the value of the ‘betel-nut’ thus involves exploring both Areca catechu which produces the areca nut and Piper Betle L. which produces the betel leaf, which have been adopted for many uses, including as medicines, dyes, adhesives, and culinary ingredients.  Amongst these vast applications, perhaps the species’ most notable mark in Singapore and Southeast Asia has been in the widespread practice of betel-nut chewing.  The English name for the practice ‘betel-nut chewing’ (hereafter ‘betel chewing’ to refer to the practice and ‘betel-nut’ when referring to the areca nut and betel leaf together) perpetuates the misnomer of the two species’ relationship as it is the areca nut – wrapped inside the betel leaf – that is chewed, typically alongside other ingredients.  As a rich multicultural regional tradition, the scope of betel chewing’s impact surpasses the act itself and is an apt reflection of Singapore’s multicultural history.
+The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pinang palm, areca-nut palm, and betel palm, is a naturalised non-native palm species found in Singapore.[^1]  While the areca palm is known by the moniker ‘betel-nut palm’, this name actually derives from its long association with the vine of the pepper plant Piper Betle L. which often grows around the areca palm.   These are two distinct species that have become intertwined both in their cultivation and in their cultural uses throughout the region. To uncover the value of the ‘betel-nut’ thus involves exploring both Areca catechu which produces the areca nut and Piper Betle L. which produces the betel leaf, which have been adopted for many uses, including as medicines, dyes, adhesives, and culinary ingredients.  Amongst these vast applications, perhaps the species’ most notable mark in Singapore and Southeast Asia has been in the widespread practice of betel-nut chewing.  The English name for the practice ‘betel-nut chewing’ (hereafter ‘betel chewing’ to refer to the practice and ‘betel-nut’ when referring to the areca nut and betel leaf together) perpetuates the misnomer of the two species’ relationship as it is the areca nut – wrapped inside the betel leaf – that is chewed, typically alongside other ingredients.  As a rich multicultural regional tradition, the scope of betel chewing’s impact surpasses the act itself and is an apt reflection of Singapore’s multicultural history.
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
-
 *This makes things italics*. 
-
 This is how you add a footnote. [^1]
-
 [This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
 
 This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
@@ -88,4 +85,5 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: Citation. Make sure you include the colon or this won't work!
+[^1]: NParks. ‘Areca Catechu’, 10 December 2021. https://www.nparks.gov.sg/florafaunaweb/flora/2/5/2587.
+
