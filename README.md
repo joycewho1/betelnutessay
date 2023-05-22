@@ -37,80 +37,9 @@ The areca palm (*Areca catechu*), <param ve-image
 ## Chewing the Betel-Nut Quid
 The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and lime (mineral material).[^6] The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] The addition of chewing tobacco and gambier were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
 
-## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
-*This makes things italics*. 
-This is how you add a footnote. [^1]
-[This is how you add a link](https://www.juncture-digital.org/KatherineMEnright/speciesstories/)
 
-This is how you add a mouse-over information panel from Wiki data: <span eid="Q170662">Mangosteen</span>
-You can find the wikidata IDs by searching for proper nouns [here](https://www.wikidata.org/wiki/Wikidata:Main_Page). The ID is the series of digits following the letter Q.
-
-**There's no spell-check feature built in, so keep a careful eye out!**
-
-## Adding Images
-       
-You can use the QID tag within a sentence. For example: The <span eid="Q170662">mangosteen</span> is a non-native fruit found in Singapore. This is the code you use to add an image. Make sure to **close the tag**. It starts with **<param ve-image** and ends with a closing **>**. Within these tags, you can add information to help the program locate and describe the image. **While these examples are images, we can also include textual sources (particularly primary sources) in the media viewer where appropriate.**
-<param ve-image 
-       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       title="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection.">
-       
-<span eid="Q271648">Marianne North</span> painted this painting of a 'Singapore monkey' amongst mangosteen fruits in 1875. You can also include "attribution" in the image information.
-<param ve-image 
-       url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_577-001.jpg"
-       title="Flowers and Fruit of the Mangosteen, and a Singapore Monkey" 
-       description="Held by Kew Gardens."
-       attribution="Marianne North"
-       license="CC BY-NC">
-       
-These are both examples of images added *from urls*. This is the preferred method. However, there might be some images you have to upload yourself. That's totally fine! Ideally, these files should be *as small as possible* and only .jpg or .png files will work. You should create a folder in your repository called "media" and upload the file there. Then, for the url, just copy and paste the item path: "media/{filename}.jpg". For more information on adding multiple images, comparisons, curtain sliders, and for how to zoom into particular sections of an image, check out the documentation [here](https://github.com/JSTOR-Labs/juncture/wiki/Visual-Essay-Image-Tag).
-<param ve-image 
-       url="media/victoria-crowned=pigeon.jpg"
-       title="Victoria crowned pigeon"
-       attribution="Katherine Enright">     
-## Map
-
-Mangosteens are found in Singapore. This takes a base map and sets the center to Singapore. The code after creates markers for different species, for instance, or to mark particular places on a map.
-<param ve-map center="1.35, 103.9" zoom="11">
-<param ve-map-marker
-       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
-       coords="1.3621, 103.8198"
-       size="38, 95"
-       iconAnchor="22, 94"
-       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
-       shadowSize="50, 64">
-<param ve-map-marker
-url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg/220px-Pinz%C3%B3n_azul_de_Gran_Canaria_%28macho%29%2C_M._A._Pe%C3%B1a.jpg"
-       coords="1.4126, 103.9577"
-       size="129, 170"
-       circle="true">
-    
-    
-You can create custom regions just by drawing shapes (no coding needed) using [geojson.io](https://geojson.io/#map=2/0/20). Then you can download the shape file and add it to your juncture media file as a map layer. Let's imagine this is the distribution range of your species.
-
-<param ve-map center="1.35, 103.9" zoom="2">
-<param ve-map-layer geojson url="/media/demomap.geojson" title="Sample Distribution"> 
-
-## Add a YouTube Video
-You can take the id from the YouTube URL. You can also define the start time with start="0:20" (for instance).
-<param ve-video id="5upF4rJUxC4" title="NYBG 2019 Corpse Flower Timelapse">
-
-## Add a Timeline
-This uses the [Knightlab platform](https://timeline.knightlab.com/). The back-end, for you to use, will just be a googlesheets (so it's user friendly!). Here's an example:
-<param ve-knightlab-timeline source="1T9E8QZRT7ZFFmb55uLpJUSnELKuqSsXlLmNuVXvOC_I" timenav-position="bottom" hash-bookmark="false" initial-zoom="1" height="640">
-
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       url="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       label="Mangosteen Photograph" 
-       description="A mangosteen plant (Garcinia mangostana): fruiting branch and halved fruit. Photograph. Wellcome Collection."
-       license="public domain">
-<param ve-map center="Q334" zoom="11" prefer-geojson>
-<param ve-map-layer geojson url="/media/map.geojson" title="Sample Distribution1"> 
+## Uncertain Origins and Arrival in Singapore
+While betel chewing has over time proliferated across Asia and the Pacific Islands, there is uncertainty regarding the origins of the practice.[^11]  More recent linguistic and archaeological evidence has suggested that the practice is likely indigenous to the Indonesian archipelago, with the earliest archaeological evidence of the species in Spirit Cave in north-western Thailand in 10,000 BC and betel-stained teeth found in the Philippines documented to 3000 BC.[^12] The earliest archaeological evidence for the emergence of the practice in Singapore points to the 1300s, where traces of lime were found in containers that may have been used to prepare the betel-nut quid.[^13] According to botanist Isaac Burkill, the palm is “undoubtedly Malaysian in origin, but [it is] impossible to find any restricted part of Malaysia as its home.”[^14] This ambiguity regarding the roots of the plant, the practice, and its arrival in Singapore highlights the convergence of cultures on a similar practice of chewing that blurs the distinction between where the practice originated, how it evolved, and how it was subsequently influenced.
 
 # References
 
@@ -124,3 +53,7 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^8]: ‘How to Make a Betel Quid’
 [^9]: Tony Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’, Blog, Johor Kaki (blog), 20 June 2021, https://johorkaki.blogspot.com/2021/06/history-of-betel-nut-disappeared-food.html. 
 [^10]: I. H. Burkill, The Botanic Gardens Singapore : Illustrated Guide / (Singapore : Botanic Gardens Singapore, 1927), 18, https://doi.org/10.5962/bhl.title.128804; Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’; John D. Gimlette, Malay Poisons and Charm Cures (London: J. & A. Churchill, 1923), 205, https://doi.org/10.5962/bhl.title.96551.
+[^11]: Adria H. Katz and Jennifer L. White, ‘Behind the Scenes Betel Chewing Paraphernalia From Asia and the Pacific’, Penn Museum 39, no. 1 (1997): 46–47, https://www.penn.museum/sites/expedition/betel-chewing-paraphenalia-from-asia-and-the-pacific/; Dawn Rooney, Betel Chewing Traditions in South-East Asia, Images of Asia (Kuala Lumpur ; New York: Oxford University Press, 1993), 19–21.
+[^12]: Rooney, Betel Chewing Traditions in South-East Asia, 19-21; M. H. Marigowda, ‘The Story of Pan Chewing in India’, Botanical Museum Leaflets, Harvard University 14, no. 8 (15 January 1951): 183–85, https://doi.org/10.5962/p.168469.
+[^13]: Geoffrey Kevin Pakiam et al., ‘Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption’, 2020, 46, https://www.iseas.edu.sg/wp-content/uploads/2021/02/NHB-HRG-024-Culinary-Biographies-Final-Report-20201018a.pdf.
+[^14]: Ria Tan, ‘Pinang or Betel-Nut Palm (Areca Catechu) of Singapore’, 10 November 2008, http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu.htm.
