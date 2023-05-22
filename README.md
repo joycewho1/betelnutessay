@@ -52,6 +52,11 @@ In the Malay story of Raja Donan, betel chewing is integral to betrothal procedu
 Betel chewing is similarly significant in Indian cultural and literary traditions. While *pan* originally referred to the betel leaf, it evolved to denote both the areca nut and betel leaf.[^24] The *Hitopadesha* (directly translated as good or friendly advice) is a compilation of Sanskrit fables drawing on *niti* or the principles of morality to advise on proper conduct.[^25] In the story of the faithful Rajpoot, thirteen ‘virtues’ of the areca nut are given, capturing attributes like it being sweet, salty, bitter, and astringent, practical and medicinal properties such as  acting as a mouth freshener, aiding in digestion, relieving inflammation, and inciting desire, as well cultural values tied to love and virtue.[^26]
 
 As Marigowda emphases, “to attempt to write about the ceremonial uses of betel nut and betel leaves in India… may be likened to an attempt to write the cultural history of the people of India in one sentence.”[^27] This is extended further when considering other cultures’ different, though often overlapping, valuation and usage of the betel nut. 
+
+
+## Entangled Tangible and Symbolic Cultural Value: Masticatory and Medicinal
+Both the areca nut and betel leaf have had a history of medical applications in Indian and Malay traditions. The areca nut contains ingredients including tannin and active alkaloids including arecaidine and arecoline, the latter of which has toxic properties.[^28] Aside from acting as a mouth freshener which is a crucial custom in India, burned nuts are also effective for cleaning teeth.[^29] This juxtaposes the common imagery of black stained teeth and red spittle associated with betel chewing which are not inevitable to the practice.[^30] Further, the juice of tender areca nuts is reportedly an effective laxative.[^31] In veterinary medicine, powdered areca nuts are used as an anthelmintic to eradicate tapeworms.[^32] The betel leaf also contains essential oils that are used to treat various afflictions like throat inflammation, and oil can also be added to the leaf and directly applied as a dressing to sores.[^33] Betel chewing is also viewed as a digestive aid that strengthens the stomach and a preventative measure against bowel problems like dysentery.[^34] 
+
 # References
 
 [^1]: ‘Areca Catechu’, NParks, 10 December 2021, https://www.nparks.gov.sg/florafaunaweb/flora/2/5/2587.
@@ -82,3 +87,10 @@ As Marigowda emphases, “to attempt to write about the ceremonial uses of betel
 [^25]: Marigowda, ‘The Story of Pan Chewing in India’, 182-83; Shonaleeka Kaul, ‘What Makes the “Hitopadesha” a Timeless Text on Human Behaviour? It Is Its Playful Language’, Scroll.in, 9 August 2022, https://scroll.in/article/1030006/what-makes-the-hitopadesha-a-timeless-text-on-human-behaviour-it-is-its-playful-language.
 [^26]: Edwin Arnold, trans., ‘The Book of Good Counsels’, in The Story of the Faithful Rajpoot, 1861, http://www.columbia.edu/itc/mealac/pritchett/00litlinks/hitopadesha_arnold/3_war.html#07_faithful_rajpoot; Marigowda, ‘The Story of Pan Chewing in India’, 182-83.
 [^27]: Marigowda, ‘The Story of Pan Chewing in India’, 203.
+[^28]: Marigowda, ‘The Story of Pan Chewing in India’, 203-4; David Hooper, ‘On Chinese Medicine: Drugs of Chinese Pharmacies in Malaya’, Gardens’ Bulletin, Straits Settlements 6, no. 1 (1929): 15, https://biostor.org/reference/248587.
+[^29]: Marigowda, ‘The Story of Pan Chewing in India’, 181-83.
+[^30]: Marigowda, ‘The Story of Pan Chewing in India’, 181-83.
+[^31]: Marigowda, ‘The Story of Pan Chewing in India’, 203-4; Hooper, ‘On Chinese Medicine’, 15; Flippance, ‘Betel’, 296.
+[^32]: Marigowda, ‘The Story of Pan Chewing in India’, 203-4; Hooper, ‘On Chinese Medicine’, 15.
+[^33]: Marigowda, ‘The Story of Pan Chewing in India’, 204.
+[^34]: Flippance, ‘Betel’, 296.
