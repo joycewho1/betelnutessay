@@ -71,6 +71,10 @@ While betel chewing was accepted, practiced, and valued by Asian communities in 
 
 Although betel chewing was first linked to oral cancer in the early 1900s and connections were increasingly made throughout the 1930s, it was not until the 1950s and 60s when sustained attention was drawn to it with newspapers frequently printing quotes from doctors stating carcinogenic links, discouraging the practice.[^48] Further, tied to broader trends of Singapore’s urbanisation and modernisation, increased attention was placed on urban hygiene.[^49] Betel chewing generates excess red spittle, and public spitting became a public health challenge that was stigmatised throughout the 1930s and 1940s.[^50] The government eventually banned spitting in public places and betel chewing declined in popularity among the younger generation until the practice became increasingly uncommon in Singapore by the 1980s.[^51]  
 
+
+## A Sustained Memory
+Betel chewing is nowadays largely survived on in Singapore only by Indian, Bangladeshi, and Burmese migrants and tourists and among cultural heritage trails memorialising the impact of betel-nut trade.[^52] However, betel chewing’s popularity remains high across parts of Asia and the Pacific Islands.[^53] As such, it remains a public health concern due to its addictive and carcinogenic properties.[^54] This also speaks to the interacting factors that culminated in the height of the practice’s popularity – from physical addiction to cultural attachment, the story of betel chewing is complex and spans cultural boundaries. Betel chewing has been valued and devalued according to different narratives and is just one aspect of a broader story on the uses and impacts of the intertwined areca palm and betel leaf both in Singapore and the region.
+
 # References
 
 [^1]: ‘Areca Catechu’, NParks, 10 December 2021, https://www.nparks.gov.sg/florafaunaweb/flora/2/5/2587.
@@ -124,4 +128,7 @@ Although betel chewing was first linked to oral cancer in the early 1900s and co
 [^48]: ‘Cancer Test at Varsity’, *Straits Budget*, 21 June 1956, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitsbudget19560621-1.2.75?oref=article-citation; ‘Cancer and the Betel Addict’, *The Straits Times*, 2 July 1968.
 [^49]: Pakiam et al., ‘Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption’, 41-2.
 [^50]: Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’; Pakiam et al., ‘Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption’, 41-6.
-[^51] Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’; Pakiam et al., ‘Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption’, 46.
+[^51]: Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’; Pakiam et al., ‘Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption’, 46.
+[^52]: Lim and Pakiam, ‘A Bite of History’; ‘Jalan Besar’, Urban Redevelopment Authority, accessed 22 May 2023, https://www.ura.gov.sg/conservation-portal/explore/history?bldgid=jlnbsr; ‘Little India’, Urban Redevelopment Authority, accessed 22 May 2023, https://www.ura.gov.sg/Conservation-Portal/Explore/History.aspx?bldgid=LTIN.
+[^53]: Zisis Kozlakidis, Io Hong Cheong, and Hui Wang, ‘Betel Nut and Arecoline: Past, Present, and Future Trends’, Innovations in Digital Health, Diagnostics, and Biomarkers 2, no. 2022 (1 January 2022): 64, https://doi.org/10.36401/IDDB-22-05.
+[^54]:  Kozlakidis, Cheong, and Wang, ‘Betel Nut and Arecoline’, 66-69; Shelly Arora and Christopher Squier, ‘Areca Nut Trade, Globalisation and Its Health Impact: Perspectives from India and South-East Asia’, Perspectives in Public Health 139, no. 1 (January 2019): 44–48, https://doi.org/10.1177/1757913918785398.
