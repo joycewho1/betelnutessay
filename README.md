@@ -57,40 +57,45 @@ As Marigowda emphases, “to attempt to write about the ceremonial uses of betel
 ## Entangled Tangible and Symbolic Cultural Value: Masticatory and Medicinal
 Both the areca nut and betel leaf have had a history of medical applications in Indian and Malay traditions. The areca nut contains ingredients including tannin and active alkaloids including arecaidine and arecoline, the latter of which has toxic properties.[^28] Aside from acting as a mouth freshener which is a crucial custom in India, burned nuts are also effective for cleaning teeth.[^29] This juxtaposes the common imagery of black stained teeth and red spittle associated with betel chewing which are not inevitable to the practice.[^30] Further, the juice of tender areca nuts is reportedly an effective laxative.[^31] In veterinary medicine, powdered areca nuts are used as an anthelmintic to eradicate tapeworms.[^32] The betel leaf also contains essential oils that are used to treat various afflictions like throat inflammation, and oil can also be added to the leaf and directly applied as a dressing to sores.[^33] Betel chewing is also viewed as a digestive aid that strengthens the stomach and a preventative measure against bowel problems like dysentery.[^34] 
 
+The areca nut is also a common ingredient in traditional Malayan medicine and crosses into the spiritual realm. For example, one medicinal manual from 1915 recorded that the betel can be chewed alongside the root of *Massoia aromatica* while repeating prayers that aim to keep the devil and illness away.[^35] Additionally, given the entangled cultural significance of the areca nut being a positive symbol that is often given and received, the refusal to receive an areca nut is viewed as symptom of illnesses attributed to evil spirits.[^36] Within the realm of divination, the spittle produced by chewing betel is used in “water-gazing” which enables a Malay wizard (*pawang, bomor*) to make diagnoses.[^37] Aside from the nut, young shoots of the areca palm were used by Malay women to induce abortions during early pregnancy.[^38]  
 # References
 
 [^1]: ‘Areca Catechu’, NParks, 10 December 2021, https://www.nparks.gov.sg/florafaunaweb/flora/2/5/2587.
-[^2]: F. Flippance, ‘Betel’, Gardens’ Bulletin, Straits Settlements 2 (1920): 294, https://biostor.org/reference/248522; ‘Piper Betle’, NParks, 20 April 2022, https://www.nparks.gov.sg/florafaunaweb/flora/1/4/1490.
+[^2]: F. Flippance, ‘Betel’, *Gardens’ Bulletin, Straits Settlements* 2 (1920): 294, https://biostor.org/reference/248522; ‘Piper Betle’, NParks, 20 April 2022, https://www.nparks.gov.sg/florafaunaweb/flora/1/4/1490.
 [^3]: George W. Staples and Robert F. Bevacqua, ‘Areca Catechu (Betel Nut Palm)’ (Species Profiles for Pacific Island Agroforestry, August 2006), 11–13, https://agroforestry.org/images/pdfs/Areca-catechu-betel-nut.pdf; 
-‘Record Postwar Betel Nut Output In RI Seen’, Singapore Standard, 25 June 1952, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520625-1.2.107?oref=article-citation.
+‘Record Postwar Betel Nut Output In RI Seen’, *Singapore Standard*, 25 June 1952, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520625-1.2.107?oref=article-citation.
 [^4]: Flippance, ‘Betel’, 296.
 [^5]: Flippance, ‘Betel’, 296.
-[^6]: ‘How to Make a Betel Quid’, The Straits Times, 13 September 1993, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930913-1.2.57.9.7?oref=article-citation. 
-[^7]: ‘Betel-Chewing’, Malaya Tribune, 12 October 1915, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19151012-1.2.4?oref=article-citation.
+[^6]: ‘How to Make a Betel Quid’, *The Straits Times*, 13 September 1993, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930913-1.2.57.9.7?oref=article-citation. 
+[^7]: ‘Betel-Chewing’, *Malaya Tribune*, 12 October 1915, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19151012-1.2.4?oref=article-citation.
 [^8]: ‘How to Make a Betel Quid’
 [^9]: Tony Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’, Blog, Johor Kaki (blog), 20 June 2021, https://johorkaki.blogspot.com/2021/06/history-of-betel-nut-disappeared-food.html. 
-[^10]: I. H. Burkill, The Botanic Gardens Singapore : Illustrated Guide / (Singapore : Botanic Gardens Singapore, 1927), 18, https://doi.org/10.5962/bhl.title.128804; Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’; John D. Gimlette, Malay Poisons and Charm Cures (London: J. & A. Churchill, 1923), 205, https://doi.org/10.5962/bhl.title.96551.
-[^11]: Adria H. Katz and Jennifer L. White, ‘Behind the Scenes Betel Chewing Paraphernalia From Asia and the Pacific’, Penn Museum 39, no. 1 (1997): 46–47, https://www.penn.museum/sites/expedition/betel-chewing-paraphenalia-from-asia-and-the-pacific/; Dawn Rooney, Betel Chewing Traditions in South-East Asia, Images of Asia (Kuala Lumpur ; New York: Oxford University Press, 1993), 19–21.
-[^12]: Rooney, Betel Chewing Traditions in South-East Asia, 19-21; M. H. Marigowda, ‘The Story of Pan Chewing in India’, Botanical Museum Leaflets, Harvard University 14, no. 8 (15 January 1951): 183–85, https://doi.org/10.5962/p.168469.
+[^10]: I. H. Burkill, *The Botanic Gardens Singapore : Illustrated Guide*, (Singapore : Botanic Gardens Singapore, 1927), 18, https://doi.org/10.5962/bhl.title.128804; Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’; John D. Gimlette, *Malay Poisons and Charm Cures* (London: J. & A. Churchill, 1923), 205, https://doi.org/10.5962/bhl.title.96551.
+[^11]: Adria H. Katz and Jennifer L. White, ‘Behind the Scenes Betel Chewing Paraphernalia From Asia and the Pacific’, *Penn Museum* 39, no. 1 (1997): 46–47, https://www.penn.museum/sites/expedition/betel-chewing-paraphenalia-from-asia-and-the-pacific/; Dawn Rooney, *Betel Chewing Traditions in South-East Asia* (Kuala Lumpur ; New York: Oxford University Press, 1993), 19–21.
+[^12]: Rooney, *Betel Chewing Traditions in South-East Asia*, 19-21; M. H. Marigowda, ‘The Story of Pan Chewing in India’, *Botanical Museum Leaflets*, Harvard University 14, no. 8 (15 January 1951): 183–85, https://doi.org/10.5962/p.168469.
 [^13]: Geoffrey Kevin Pakiam et al., ‘Culinary Biographies: Charting Singapore’s History Through Cooking and Consumption’, 2020, 46, https://www.iseas.edu.sg/wp-content/uploads/2021/02/NHB-HRG-024-Culinary-Biographies-Final-Report-20201018a.pdf.
 [^14]: Ria Tan, ‘Pinang or Betel-Nut Palm (Areca Catechu) of Singapore’, 10 November 2008, http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu.htm.
 [^15]: Anonymous, ‘Malay Annals Chapter 13’, trans. John Leyden (1821), Wikisource, https://en.wikisource.org/wiki/Malay_Annals/Chapter_13; Anonymous, ‘Malay Annals Chapter 24’, trans. John Leyden (1821), Wikisource, https://en.wikisource.org/wiki/Malay_Annals/Chapter_24.
-[^16]: ‘China Market 1827’, Singapore Chronicle and Commercial Register, 13 March 1828, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280313-1.2.6?oref=article-citation.
-[^17]: ‘Record Postwar Betel Nut Output In RI Seen’; ‘“Betel Nuts Not Luxury” Says Trader’, The Straits Times, 14 July 1953, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530714-1.2.78?oref=article-citation.
-[^18]: ‘Sri Rama’, Journal of the Straits Branch of the Royal Asiatic Society, 1886, 106, https://www.biodiversitylibrary.org/item/130389. 
+[^16]: ‘China Market 1827’, *Singapore Chronicle and Commercial Register*, 13 March 1828, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280313-1.2.6?oref=article-citation.
+[^17]: ‘Record Postwar Betel Nut Output In RI Seen’; ‘“Betel Nuts Not Luxury” Says Trader’, *The Straits Times*, 14 July 1953, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530714-1.2.78?oref=article-citation.
+[^18]: ‘Sri Rama’, *Journal of the Straits Branch of the Royal Asiatic Society*, 1886, 106, https://www.biodiversitylibrary.org/item/130389. 
 [^19]: 'Sri Rama', 106 
 [^20]: 'Sri Rama', 113; ‘Betel Nut’, Alcohol and Drug Foundation, 10 November 2021, https://adf.org.au/drug-facts/betel-nut/. 
-[^21]: ‘Raja Donan’, Journal of the Straits Branch of the Royal Asiatic Society 17–18 (1886): 248–55. 
-[^22]: Kennie Ting, ‘The Singapore Story through 60 Objects’, Cultural Connections IV (2019): 26, https://www.mccy.gov.sg/-/media/Mccy-Ca/Feature/Resources/Journals/Cultural-Connections-Vol-4/5-Mr-Kennie-Ting.pdf.
-[^23]: Ting, ‘The Singapore Story through 60 Objects’, 26; ‘Interesting Paan Variations’, Asian Geographic Passport, 19 December 2019; Rooney, Betel Chewing Traditions in South-East Asia, 34-35; 'Sri Rama', 106; ‘Raja Donan’, 248-55.
+[^21]: ‘Raja Donan’, *Journal of the Straits Branch of the Royal Asiatic Society* 17–18 (1886): 248–55. 
+[^22]: Kennie Ting, ‘The Singapore Story through 60 Objects’, *Cultural Connections* IV (2019): 26, https://www.mccy.gov.sg/-/media/Mccy-Ca/Feature/Resources/Journals/Cultural-Connections-Vol-4/5-Mr-Kennie-Ting.pdf.
+[^23]: Ting, ‘The Singapore Story through 60 Objects’, 26; ‘Interesting Paan Variations’, *Asian Geographic Passport*, 19 December 2019; Rooney, *Betel Chewing Traditions in South-East Asia*, 34-35; 'Sri Rama', 106; ‘Raja Donan’, 248-55.
 [^24]: Marigowda, ‘The Story of Pan Chewing in India’, 181.
 [^25]: Marigowda, ‘The Story of Pan Chewing in India’, 182-83; Shonaleeka Kaul, ‘What Makes the “Hitopadesha” a Timeless Text on Human Behaviour? It Is Its Playful Language’, Scroll.in, 9 August 2022, https://scroll.in/article/1030006/what-makes-the-hitopadesha-a-timeless-text-on-human-behaviour-it-is-its-playful-language.
-[^26]: Edwin Arnold, trans., ‘The Book of Good Counsels’, in The Story of the Faithful Rajpoot, 1861, http://www.columbia.edu/itc/mealac/pritchett/00litlinks/hitopadesha_arnold/3_war.html#07_faithful_rajpoot; Marigowda, ‘The Story of Pan Chewing in India’, 182-83.
+[^26]: Edwin Arnold, trans., ‘The Story of the Faithful Rajpoot ’, in *The Book of Good Counsels*, 1861, http://www.columbia.edu/itc/mealac/pritchett/00litlinks/hitopadesha_arnold/3_war.html#07_faithful_rajpoot; Marigowda, ‘The Story of Pan Chewing in India’, 182-83.
 [^27]: Marigowda, ‘The Story of Pan Chewing in India’, 203.
-[^28]: Marigowda, ‘The Story of Pan Chewing in India’, 203-4; David Hooper, ‘On Chinese Medicine: Drugs of Chinese Pharmacies in Malaya’, Gardens’ Bulletin, Straits Settlements 6, no. 1 (1929): 15, https://biostor.org/reference/248587.
+[^28]: Marigowda, ‘The Story of Pan Chewing in India’, 203-4; David Hooper, ‘On Chinese Medicine: Drugs of Chinese Pharmacies in Malaya’, *Gardens’ Bulletin, Straits Settlements* 6, no. 1 (1929): 15, https://biostor.org/reference/248587.
 [^29]: Marigowda, ‘The Story of Pan Chewing in India’, 181-83.
 [^30]: Marigowda, ‘The Story of Pan Chewing in India’, 181-83.
 [^31]: Marigowda, ‘The Story of Pan Chewing in India’, 203-4; Hooper, ‘On Chinese Medicine’, 15; Flippance, ‘Betel’, 296.
 [^32]: Marigowda, ‘The Story of Pan Chewing in India’, 203-4; Hooper, ‘On Chinese Medicine’, 15.
 [^33]: Marigowda, ‘The Story of Pan Chewing in India’, 204.
 [^34]: Flippance, ‘Betel’, 296.
+[^35]: Inche Ismail, J. D. Gimlette, and I. H. Burkill, ‘The Medical Book Of Malayan Medicine’, *Gardens’ Bulletin, Straits Settlements* 6, no. 3 (1930): 332, https://biostor.org/reference/248428. 
+[^36]: Gimlette, *Malay Poisons and Charm Cures*, 42.
+[^37]: Gimlette, *Malay Poisons and Charm Cures*, 106-7.
+[^38]: Gimlette, *Malay Poisons and Charm Cures*, 206.
