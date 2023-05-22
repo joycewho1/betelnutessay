@@ -11,7 +11,8 @@ The areca palm (*Areca catechu*), <param ve-image
        title="Areca catechu"
        attribution="Franz Xaver"
        license="CC BY-SA 3.0"
-       layers="true"> <param ve-image 
+       layers="true"> 
+       <param ve-image 
        url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg"
        title="Areca or Betel-Nut Palm, Singapore" 
        description="Oil painting, 1876"
