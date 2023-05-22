@@ -33,6 +33,10 @@ The areca palm (*Areca catechu*), <param ve-image
        license="PD-US-expired"
        fit="contain">  which often grows around the areca palm.[^2]  These are two distinct species that have become intertwined both in their cultivation and in their cultural uses throughout the region. To uncover the value of the ‘betel-nut’ thus involves exploring both *Areca catechu* which produces the areca nut and *Piper betle* L. which produces the betel leaf, which have been adopted for many uses, including as medicines, dyes, adhesives, and culinary ingredients.[^3] Amongst these vast applications, perhaps the species’ most notable mark in Singapore and Southeast Asia has been in the widespread practice of betel-nut chewing.[^4] The English name for the practice ‘betel-nut chewing’ (hereafter ‘betel chewing’ to refer to the practice and ‘betel-nut’ when referring to the areca nut and betel leaf together) perpetuates the misnomer of the two species’ relationship as it is the areca nut – wrapped inside the betel leaf – that is chewed, typically alongside other ingredients.[^5] As a rich multicultural regional tradition, the scope of betel chewing’s impact surpasses the act itself and is an apt reflection of Singapore’s multicultural history.
 
+
+## Chewing the Betel-Nut Quid
+The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and lime (mineral material).[^6] The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] The addition of chewing tobacco and gambier were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
+
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 *This makes things italics*. 
 This is how you add a footnote. [^1]
@@ -115,3 +119,8 @@ Others are selectable using icons displayed in the top right margin of the parag
 [^3]: George W. Staples and Robert F. Bevacqua, ‘Areca Catechu (Betel Nut Palm)’ (Species Profiles for Pacific Island Agroforestry, August 2006), 11–13, https://agroforestry.org/images/pdfs/Areca-catechu-betel-nut.pdf; ‘Record Postwar Betel Nut Output In RI Seen’, Singapore Standard, 25 June 1952, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520625-1.2.107?oref=article-citation.
 [^4]: Flippance, ‘Betel’, 296.
 [^5]: Flippance, ‘Betel’, 296.
+[^6]: ‘How to Make a Betel Quid’, The Straits Times, 13 September 1993, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930913-1.2.57.9.7?oref=article-citation. 
+[^7]: ‘Betel-Chewing’, Malaya Tribune, 12 October 1915, https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19151012-1.2.4?oref=article-citation.
+[^8]: ‘How to Make a Betel Quid’
+[^9]: Tony Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’, Blog, Johor Kaki (blog), 20 June 2021, https://johorkaki.blogspot.com/2021/06/history-of-betel-nut-disappeared-food.html. 
+[^10]: I. H. Burkill, The Botanic Gardens Singapore : Illustrated Guide / (Singapore : Botanic Gardens Singapore, 1927), 18, https://doi.org/10.5962/bhl.title.128804; Boey, ‘History & Where to Buy Betel Nut & Paan in Singapore’; John D. Gimlette, Malay Poisons and Charm Cures (London: J. & A. Churchill, 1923), 205, https://doi.org/10.5962/bhl.title.96551.
