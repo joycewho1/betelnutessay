@@ -1,11 +1,11 @@
 # betelnutessay
 <param ve-config 
-       title="Betel Nut"
+       title="Masticatory, Medicinal & More: The Tangible and Symbolic Values of the “Betel-Nut Palm” in Singapore and Southeast Asia "
        author="Joyce Hu"
        banner="https://iiif.wellcomecollection.org/image/V0044770/full/1338%2C/0/default.jpg"
-       layout="vertical">
+       layout="vertical"> For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
        
-For reference, first open the [Juncture user guide](https://github.com/JSTOR-Labs/juncture/wiki/visual-essay-tags) in a new tab. Then, go ahead and enter your essay title in the "title" field above, and your name as you'd like it to appear in "author". For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
+       ## Behind the “Betel-nut Palm” Moniker 
 
 ## This is a quick Markdown tutorial. Two hashes precede a heading. You can use these headings to divide sections of your essay.
 
