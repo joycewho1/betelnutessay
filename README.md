@@ -38,9 +38,13 @@ The areca palm (*Areca catechu*), <param ve-image
 ## Chewing the Betel-Nut Quid
 The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and <span eid="Q250423">lime</span> (mineral material).[^6] <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Old_Bagan%2C_Myanmar%2C_Paan%2C_the_betel_leaf_and_areca_nut.jpg"
-       label="Basic betel-nut quid with sliced areca nut and lime paste wrapped in betel leaf"
+       label="Basic betel-nut quid with sliced areca nut and lime paste in betel leaf"
        attribution="Vyacheslav Argenberg"
-       license="CC BY 4.0"> The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] The addition of chewing tobacco and <span eid="Q19840126">gambier</span> were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
+       license="CC BY 4.0"> The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Material_in_tha_paan.jpg"
+       label="Paan with additional spices"
+       attribution="Kvr.lohith"
+       license="CC BY-SA 4.0"> The addition of chewing tobacco and <span eid="Q19840126">gambier</span> were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
 
 
 ## Uncertain Origins and Arrival in Singapore
