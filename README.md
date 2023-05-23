@@ -102,7 +102,6 @@ Betel chewing is similarly significant in Indian cultural and literary tradition
        attribution="Joyce Hu"
        fit="contain">
 
-
 As <span eid="Q6712641">M.H. Marigowda</span> emphasises, “to attempt to write about the ceremonial uses of betel nut and betel leaves in India… may be likened to an attempt to write the cultural history of the people of India in one sentence.”[^27] This is extended further when considering other cultures’ different, though often overlapping, valuation and usage of the betel nut. 
 <param ve-image 
        url="media/marigowda quote.jpg"
@@ -113,6 +112,12 @@ As <span eid="Q6712641">M.H. Marigowda</span> emphasises, “to attempt to write
 
 ## Entangled Tangible and Symbolic Cultural Value: Masticatory and Medicinal
 Both the areca nut and betel leaf have had a history of medical applications in Indian and Malay traditions. The areca nut contains ingredients including tannin and active alkaloids including arecaidine and arecoline, the latter of which has toxic properties.[^28] Aside from acting as a mouth freshener which is a crucial custom in India, burned nuts are also effective for cleaning teeth.[^29] This juxtaposes the common imagery of black stained teeth and red spittle associated with betel chewing which are not inevitable to the practice.[^30] Further, the juice of tender areca nuts is reportedly an effective laxative.[^31] In veterinary medicine, powdered areca nuts are used as an anthelmintic to eradicate tapeworms.[^32] The betel leaf also contains essential oils that are used to treat various afflictions like throat inflammation, and oil can also be added to the leaf and directly applied as a dressing to sores.[^33] Betel chewing is also viewed as a digestive aid that strengthens the stomach and a preventative measure against bowel problems like dysentery.[^34] 
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/5/51/Thailand_Hill_Tribes_%282401861669%29.jpg"
+       title="Teeth stained black from habitual betel chewing"
+       attribution="Steve Evans"
+       license="CC BY 2.0"
+       > 
 
 The areca nut is also a common ingredient in traditional Malayan medicine and crosses into the spiritual realm. For example, one medicinal manual from 1915 recorded that the betel can be chewed alongside the root of *Massoia aromatica* while repeating prayers that aim to keep the devil and illness away.[^35] Additionally, given the entangled cultural significance of the areca nut being a positive symbol that is often given and received, the refusal to receive an areca nut is viewed as symptom of illnesses attributed to evil spirits.[^36] Within the realm of divination, the spittle produced by chewing betel is used in “water-gazing” which enables a Malay wizard (*pawang, bomor*) to make diagnoses.[^37] Aside from the nut, young shoots of the areca palm were used by Malay women to induce abortions during early pregnancy.[^38]  
 
