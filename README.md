@@ -96,6 +96,12 @@ In the Malay story of [Raja Donan](https://www.biodiversitylibrary.org/page/4173
        fit="contain">
 
 Betel chewing is similarly significant in Indian cultural and literary traditions. While *pan* originally referred to the betel leaf, it evolved to denote both the areca nut and betel leaf.[^24] The <span eid="Q606278">*Hitopadesha*</span>, (directly translated as good or friendly advice) is a compilation of Sanskrit fables drawing on *niti* or the principles of morality to advise on proper conduct.[^25] In the [story of the faithful Rajpoot](http://www.columbia.edu/itc/mealac/pritchett/00litlinks/hitopadesha_arnold/3_war.html#07_faithful_rajpoot), thirteen ‘virtues’ of the areca nut are given, capturing attributes like it being sweet, salty, bitter, and astringent, practical and medicinal properties such as  acting as a mouth freshener, aiding in digestion, relieving inflammation, and inciting desire, as well cultural values tied to love and virtue.[^26]
+<param ve-image 
+       url="media/White Colorful Linked Circles Mind Map Brainstorm.png"
+       title="Virtues of the Areca Nut in the Story of the Faithful Rajpoot in the *Hitopadesha*"
+       attribution="Joyce Hu"
+       fit="contain">
+
 
 As Marigowda emphases, “to attempt to write about the ceremonial uses of betel nut and betel leaves in India… may be likened to an attempt to write the cultural history of the people of India in one sentence.”[^27] This is extended further when considering other cultures’ different, though often overlapping, valuation and usage of the betel nut. 
 
