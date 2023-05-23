@@ -48,7 +48,7 @@ The simplest form of betel chewing requires three ingredients: the areca nut, a 
 
 
 ## Uncertain Origins and Arrival in Singapore
-While betel chewing has over time proliferated across Asia and the Pacific Islands, there is uncertainty regarding the origins of the practice.[^11]  More recent linguistic and archaeological evidence has suggested that the practice is likely indigenous to the Indonesian archipelago, with the earliest archaeological evidence of the species in <span data-mouseover-map-flyto="19.567806, 98.281083">Spirit Cave</span> in north-western Thailand in 10,000 BC and betel-stained teeth found in the Philippines documented to 3000 BC.[^12] The earliest archaeological evidence for the emergence of the practice in Singapore points to the 1300s, where traces of lime were found in containers that may have been used to prepare the betel-nut quid.[^13] According to botanist <span eid="Q4084920">Isaac Burkill</span>, the palm is “undoubtedly Malaysian in origin, but [it is] impossible to find any restricted part of Malaysia as its home.”[^14] This ambiguity regarding the roots of the plant, the practice, and its arrival in Singapore highlights the convergence of cultures on a similar practice of chewing that blurs the distinction between where the practice originated, how it evolved, and how it was subsequently influenced.
+While betel chewing has over time proliferated across Asia and the Pacific Islands, there is uncertainty regarding the origins of the practice.[^11]  More recent linguistic and archaeological evidence has suggested that the practice is likely indigenous to the Indonesian archipelago, with the earliest archaeological evidence of the species in <span data-mouseover-map-flyto="19.567806, 98.281083">Spirit Cave</span> in north-western Thailand in 10,000 BC and betel-stained teeth found in the <span data-mouseover-map-flyto="10, 118.83">Palawan, the Philippines </span>documented to 3000 BC.[^12] The earliest archaeological evidence for the emergence of the practice in Singapore points to the 1300s, where traces of lime were found in containers that may have been used to prepare the betel-nut quid.[^13] According to botanist <span eid="Q4084920">Isaac Burkill</span>, the palm is “undoubtedly Malaysian in origin, but [it is] impossible to find any restricted part of Malaysia as its home.”[^14] This ambiguity regarding the roots of the plant, the practice, and its arrival in Singapore highlights the convergence of cultures on a similar practice of chewing that blurs the distinction between where the practice originated, how it evolved, and how it was subsequently influenced.
 <param ve-map center="Q334" zoom="3">
 <param ve-map-layer geojson url="/media/map (1).geojson" title="Distribution of countries where betel chewing or consumption was once prevalent"> 
 <param ve-map-marker
@@ -57,6 +57,11 @@ While betel chewing has over time proliferated across Asia and the Pacific Islan
        coords="19.567806, 98.281083"
        size="50, 50"
        >
+<param ve-map-marker
+       coords="10, 118.83"
+       size="50, 50"
+       >
+       
     
 
 
