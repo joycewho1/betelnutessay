@@ -36,7 +36,7 @@ The areca palm (*Areca catechu*), <param ve-image
 
 
 ## Chewing the Betel-Nut Quid
-The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and lime (mineral material).[^6] The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] The addition of chewing tobacco and gambier were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
+The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and [<span eid="Q250423">lime</span>] (mineral material).[^6] The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] The addition of chewing tobacco and gambier were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
 
 
 ## Uncertain Origins and Arrival in Singapore
