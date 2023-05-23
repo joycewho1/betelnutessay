@@ -6,7 +6,8 @@
        layout="vertical"> For the banner image, you can pick anything you already have permissions to use. The image will be automatically scaled to fit the field (or you can crop/create an image 1200 by 400 pixels).
        
 ## Behind the “Betel-nut Palm” Moniker 
-The areca palm (*Areca catechu*), <param ve-image 
+The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pinang palm, areca-nut palm, and betel palm, is a naturalised non-native palm species found in Singapore.[^1]  While the areca palm is known by the moniker ‘betel-nut palm’, this name actually derives from its long association with the vine of the pepper plant *Piper betle* L. which often grows around the areca palm.[^2]  These are two distinct species that have become intertwined both in their cultivation and in their cultural uses throughout the region. To uncover the value of the ‘betel-nut’ thus involves exploring both *Areca catechu* which produces the areca nut and *Piper betle* L. which produces the betel leaf, which have been adopted for many uses, including as medicines, dyes, adhesives, and culinary ingredients.[^3] Amongst these vast applications, perhaps the species’ most notable mark in Singapore and Southeast Asia has been in the widespread practice of betel-nut chewing.[^4] The English name for the practice ‘betel-nut chewing’ (hereafter ‘betel chewing’ to refer to the practice and ‘betel-nut’ when referring to the areca nut and betel leaf together) perpetuates the misnomer of the two species’ relationship as it is the areca nut – wrapped inside the betel leaf – that is chewed, typically alongside other ingredients.[^5] As a rich multicultural regional tradition, the scope of betel chewing’s impact surpasses the act itself and is an apt reflection of Singapore’s multicultural history.
+<param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Areca_catechu_2.jpg"
        label="*Areca catechu*"
        attribution="Franz Xaver"
@@ -19,7 +20,8 @@ The areca palm (*Areca catechu*), <param ve-image
        description="Oil painting, 1876"
        attribution="Marianne North"
        license="CC BY-NC"
-       fit="contain"> also commonly known as the betel-nut palm, pinang palm, areca-nut palm, and betel palm, is a naturalised non-native palm species found in Singapore.[^1]  While the areca palm is known by the moniker ‘betel-nut palm’, this name actually derives from its long association with the vine of the pepper plant *Piper betle* L. <param ve-image 
+       fit="contain"> 
+<param ve-image 
        curtain="true"
        url="https://upload.wikimedia.org/wikipedia/commons/5/52/Betel_Piper_betle.jpg"
        label="*Piper betle* L."
@@ -32,8 +34,7 @@ The areca palm (*Areca catechu*), <param ve-image
        description="Plate from book, estimated 1880-1883"
        attribution="Francisco Manuel Blanco"
        license="PD-US-expired"
-       fit="contain">  which often grows around the areca palm.[^2]  These are two distinct species that have become intertwined both in their cultivation and in their cultural uses throughout the region. To uncover the value of the ‘betel-nut’ thus involves exploring both *Areca catechu* which produces the areca nut and *Piper betle* L. which produces the betel leaf, which have been adopted for many uses, including as medicines, dyes, adhesives, and culinary ingredients.[^3] Amongst these vast applications, perhaps the species’ most notable mark in Singapore and Southeast Asia has been in the widespread practice of betel-nut chewing.[^4] The English name for the practice ‘betel-nut chewing’ (hereafter ‘betel chewing’ to refer to the practice and ‘betel-nut’ when referring to the areca nut and betel leaf together) perpetuates the misnomer of the two species’ relationship as it is the areca nut – wrapped inside the betel leaf – that is chewed, typically alongside other ingredients.[^5] As a rich multicultural regional tradition, the scope of betel chewing’s impact surpasses the act itself and is an apt reflection of Singapore’s multicultural history.
-
+       fit="contain">  
 
 ## Chewing the Betel-Nut Quid
 The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and <span eid="Q250423">lime</span> (mineral material).[^6] <param ve-image 
@@ -48,7 +49,7 @@ The simplest form of betel chewing requires three ingredients: the areca nut, a 
 
 
 ## Uncertain Origins and Arrival in Singapore
-While betel chewing has over time proliferated across Asia and the Pacific Islands, there is uncertainty regarding the origins of the practice.[^11]  More recent linguistic and archaeological evidence has suggested that the practice is likely indigenous to the Indonesian archipelago, with the earliest archaeological evidence of the species in <span data-mouseover-map-flyto="19.567806, 98.281083, 11">Spirit Cave</span> in north-western Thailand in 10,000 BC and betel-stained teeth found in the <span data-mouseover-map-flyto="10, 118.83, 11">Palawan, the Philippines </span>documented to 3000 BC.[^12] The earliest archaeological evidence for the emergence of the practice in Singapore points to the 1300s, where traces of lime were found in containers that may have been used to prepare the betel-nut quid.[^13] According to botanist <span eid="Q4084920">Isaac Burkill</span>, the palm is “undoubtedly Malaysian in origin, but [it is] impossible to find any restricted part of Malaysia as its home.”[^14] This ambiguity regarding the roots of the plant, the practice, and its arrival in Singapore highlights the convergence of cultures on a similar practice of chewing that blurs the distinction between where the practice originated, how it evolved, and how it was subsequently influenced.
+While betel chewing has over time proliferated across Asia and the Pacific Islands, there is uncertainty regarding the origins of the practice.[^11]  More recent linguistic and archaeological evidence has suggested that the practice is likely indigenous to the Indonesian archipelago, with the earliest archaeological evidence of the species in <span data-mouseover-map-flyto="19.567806, 98.281083, 11">Spirit Cave</span> in north-western Thailand in 10,000 BC and betel-stained teeth found in <span data-mouseover-map-flyto="10, 118.83, 11">Duyong Cave</span> in the southern Philippines documented to 3000 BC.[^12] The earliest archaeological evidence for the emergence of the practice in Singapore points to the 1300s, where traces of lime were found in containers that may have been used to prepare the betel-nut quid.[^13] According to botanist <span eid="Q4084920">Isaac Burkill</span>, the palm is “undoubtedly Malaysian in origin, but [it is] impossible to find any restricted part of Malaysia as its home.”[^14] This ambiguity regarding the roots of the plant, the practice, and its arrival in Singapore highlights the convergence of cultures on a similar practice of chewing that blurs the distinction between where the practice originated, how it evolved, and how it was subsequently influenced.
 <param ve-map center="Q334" zoom="3">
 <param ve-map-layer geojson url="/media/map (1).geojson" title="Distribution of countries where betel chewing or consumption was once prevalent"> 
 <param ve-map-marker
