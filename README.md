@@ -8,8 +8,8 @@
 ## Behind the “Betel-nut Palm” Moniker 
 The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pinang palm, areca-nut palm, and betel palm, is a naturalised non-native palm species found in Singapore.[^1]  While the areca palm is known by the moniker ‘betel-nut palm’, this name actually derives from its long association with the vine of the pepper plant *Piper betle* L. which often grows around the areca palm.[^2]  These are two distinct species that have become intertwined both in their cultivation and in their cultural uses throughout the region. To uncover the value of the ‘betel-nut’ thus involves exploring both *Areca catechu* which produces the areca nut and *Piper betle* L. which produces the betel leaf, which have been adopted for many uses, including as medicines, dyes, adhesives, and culinary ingredients.[^3] Amongst these vast applications, perhaps the species’ most notable mark in Singapore and Southeast Asia has been in the widespread practice of betel-nut chewing.[^4] The English name for the practice ‘betel-nut chewing’ (hereafter ‘betel chewing’ to refer to the practice and ‘betel-nut’ when referring to the areca nut and betel leaf together) perpetuates the misnomer of the two species’ relationship as it is the areca nut – wrapped inside the betel leaf – that is chewed, typically alongside other ingredients.[^5] As a rich multicultural regional tradition, the scope of betel chewing’s impact surpasses the act itself and is an apt reflection of Singapore’s multicultural history.
 
-<param ve-compare curtain manifest="https://iiif.juncture-digital.org/wc:Betel_Piper_betle.jpg/manifest.json">
-<param ve-compare manifest="https://iiif.juncture-digital.org/wc:Piper_betle_Blanco1.12.jpg/manifest.json">
+<param ve-compare curtain manifest="https://iiif.juncture-digital.org/wc:Betel_Piper_betle.jpg/manifest.json" fit="contain">
+<param ve-compare manifest="https://iiif.juncture-digital.org/wc:Piper_betle_Blanco1.12.jpg/manifest.json" fit="contain">
 
 
 ## Chewing the Betel-Nut Quid
