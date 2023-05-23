@@ -21,20 +21,7 @@ The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pin
        attribution="Marianne North"
        license="CC BY-NC"
        fit="contain"> 
-<param ve-image 
-       curtain="true"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/52/Betel_Piper_betle.jpg"
-       label="*Piper betle* L."
-       attribution="Nayan J Nath"
-       license="CC BY-SA 4.0"
-       fit="contain"
-       > <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/9/97/Piper_betle_Blanco1.12.jpg"
-       label="Plate of betel vine"
-       description="Plate from book, estimated 1880-1883"
-       attribution="Francisco Manuel Blanco"
-       license="PD-US-expired"
-       fit="contain">  
+
 
 ## Chewing the Betel-Nut Quid
 The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and <span eid="Q250423">lime</span> (mineral material).[^6]  The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] The addition of chewing tobacco and <span eid="Q19840126">gambier</span> were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
