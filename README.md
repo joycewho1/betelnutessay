@@ -72,8 +72,12 @@ The practice of betel chewing precedes modern history, with mentions in literary
        label="Not in copyright"
        fit="contain">
 
-
 The spread in the practice is attached to the high cultural and symbolic value associated with both betel chewing and the betel leaf. In the Sri Rama (Malay derivation of the Ramayana), betel chewing is a gesture of welcoming and invitation.[^18] This is paired with expressions of humility about the quality of the nut as an additional token of Malay politeness.[^19] The Sri Rama also highlights the physical effects of betel chewing, notably its “stupefying effect” which underscores the chemical properties tied to its medicinal value.[^20]  
+<param ve-image 
+       url="media/sri rama 106.jpg"
+       title="Excerpt from the Sri Rama"
+       label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/41735149"
+       fit="contain">
 
 In the Malay story of Raja Donan, betel chewing is integral to betrothal procedures as a sign of devotion.[^21] Indeed, alongside the nut itself which is presented to guests during special occasions, the betel container *kotak sirih*, which holds the betel quid ingredients in different compartments, was often gifted in proposal or wedding ceremonies.[^22] Overall, both the betel quid as well as the betel leaf itself came with high symbolic social value and were regarded as tokens of friendliness, agreement, invitation, and even as a formal apology in Malay communities.[^23] 
 
