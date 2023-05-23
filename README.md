@@ -106,8 +106,8 @@ Betel chewing is similarly significant in Indian cultural and literary tradition
 As <span eid="Q6712641">M.H. Marigowda</span> emphasises, “to attempt to write about the ceremonial uses of betel nut and betel leaves in India… may be likened to an attempt to write the cultural history of the people of India in one sentence.”[^27] This is extended further when considering other cultures’ different, though often overlapping, valuation and usage of the betel nut. 
 <param ve-image 
        url="media/marigowda quote.jpg"
-       title="Exercpt from "The Story of Pan Chewing in India"
-       attribution="M.H. Marigowda, 1951, Botanical Museum Leaflets, Harvard University"
+       title="Excerpt from 'The Story of Pan Chewing in India'"
+       attribution="M.H. Marigowda, 1951, Botanical Museum Leaflets, Harvard University, not in copyright, from the Biodiversity Heritage Library"
        label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/41735149"
        fit="contain">
 
