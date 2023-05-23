@@ -8,13 +8,39 @@
 ## Behind the “Betel-nut Palm” Moniker 
 The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pinang palm, areca-nut palm, and betel palm, is a naturalised non-native palm species found in Singapore.[^1]  While the areca palm is known by the moniker ‘betel-nut palm’, this name actually derives from its long association with the vine of the pepper plant *Piper betle* L. which often grows around the areca palm.[^2]  These are two distinct species that have become intertwined both in their cultivation and in their cultural uses throughout the region. To uncover the value of the ‘betel-nut’ thus involves exploring both *Areca catechu* which produces the areca nut and *Piper betle* L. which produces the betel leaf, which have been adopted for many uses, including as medicines, dyes, adhesives, and culinary ingredients.[^3] Amongst these vast applications, perhaps the species’ most notable mark in Singapore and Southeast Asia has been in the widespread practice of betel-nut chewing.[^4] The English name for the practice ‘betel-nut chewing’ (hereafter ‘betel chewing’ to refer to the practice and ‘betel-nut’ when referring to the areca nut and betel leaf together) perpetuates the misnomer of the two species’ relationship as it is the areca nut – wrapped inside the betel leaf – that is chewed, typically alongside other ingredients.[^5] As a rich multicultural regional tradition, the scope of betel chewing’s impact surpasses the act itself and is an apt reflection of Singapore’s multicultural history.
 
-<param ve-compare curtain manifest="https://iiif.juncture-digital.org/wc:Betel_Piper_betle.jpg/manifest.json" fit="contain">
-<param ve-compare manifest="https://iiif.juncture-digital.org/wc:Piper_betle_Blanco1.12.jpg/manifest.json" fit="contain">
-
+<param ve-compare 
+       url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Areca_catechu_2.jpg"
+       label="*Areca catechu*"
+       attribution="Franz Xaver"
+       license="CC BY-SA 3.0"
+       fit="contain"> 
+<param ve-compare
+       url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg"
+       contain="true"
+       ref="2"
+       label="Areca or Betel-Nut Palm, Singapore"
+       description="Oil painting, 1876"
+       attribution="Marianne North"
+       license="CC BY-NC"
+       fit="contain"> 
+<param ve-image 
+       curtain="true"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/52/Betel_Piper_betle.jpg"
+       label="*Piper betle* L."
+       attribution="Nayan J Nath"
+       license="CC BY-SA 4.0"
+       fit="contain"
+       > <param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/9/97/Piper_betle_Blanco1.12.jpg"
+       label="Plate of betel vine"
+       description="Plate from book, estimated 1880-1883"
+       attribution="Francisco Manuel Blanco"
+       license="PD-US-expired"
+       fit="contain">  
 
 ## Chewing the Betel-Nut Quid
 The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and <span eid="Q250423">lime</span> (mineral material).[^6]  The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] The addition of chewing tobacco and <span eid="Q19840126">gambier</span> were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
-<param ve-image 
+<param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Old_Bagan%2C_Myanmar%2C_Paan%2C_the_betel_leaf_and_areca_nut.jpg"
        label="Basic betel-nut quid with sliced areca nut and lime paste in betel leaf"
        attribution="Vyacheslav Argenberg"
