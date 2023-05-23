@@ -37,16 +37,17 @@ The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pin
        fit="contain">  
 
 ## Chewing the Betel-Nut Quid
-The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and <span eid="Q250423">lime</span> (mineral material).[^6] <param ve-image 
+The simplest form of betel chewing requires three ingredients: the areca nut, a betel leaf, and <span eid="Q250423">lime</span> (mineral material).[^6]  The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] The addition of chewing tobacco and <span eid="Q19840126">gambier</span> were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
+<param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Old_Bagan%2C_Myanmar%2C_Paan%2C_the_betel_leaf_and_areca_nut.jpg"
        label="Basic betel-nut quid with sliced areca nut and lime paste in betel leaf"
        attribution="Vyacheslav Argenberg"
-       license="CC BY 4.0"> The areca nut is sliced or cut and shaved and wrapped into the leaf which is topped with slaked lime flakes or lime paste.[^7] The betel quid is then chewed as the tongue presses between the teeth and cheek where the quid is located.[^8] In Indian communities, additional spices such as cardamon, cloves, and nutmeg are often added to the basic betel quid to make *pan/paan*.[^9] <param ve-image 
+       license="CC BY 4.0">
+<param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/2/2b/Material_in_tha_paan.jpg"
        label="Paan with additional spices"
        attribution="Kvr.lohith"
-       license="CC BY-SA 4.0"> The addition of chewing tobacco and <span eid="Q19840126">gambier</span> were also popular complements to the betel quid in different communities within Singapore and Malaya.[^10] 
-
+       license="CC BY-SA 4.0"> 
 
 ## Uncertain Origins and Arrival in Singapore
 While betel chewing has over time proliferated across Asia and the Pacific Islands, there is uncertainty regarding the origins of the practice.[^11]  More recent linguistic and archaeological evidence has suggested that the practice is likely indigenous to the Indonesian archipelago, with the earliest archaeological evidence of the species in <span data-mouseover-map-flyto="19.567806, 98.281083, 11">Spirit Cave</span> in north-western Thailand in 10,000 BC and betel-stained teeth found in <span data-mouseover-map-flyto="10, 118.83, 11">Duyong Cave</span> in the southern Philippines documented to 3000 BC.[^12] The earliest archaeological evidence for the emergence of the practice in Singapore points to the 1300s, where traces of lime were found in containers that may have been used to prepare the betel-nut quid.[^13] According to botanist <span eid="Q4084920">Isaac Burkill</span>, the palm is “undoubtedly Malaysian in origin, but [it is] impossible to find any restricted part of Malaysia as its home.”[^14] This ambiguity regarding the roots of the plant, the practice, and its arrival in Singapore highlights the convergence of cultures on a similar practice of chewing that blurs the distinction between where the practice originated, how it evolved, and how it was subsequently influenced.
@@ -63,9 +64,6 @@ While betel chewing has over time proliferated across Asia and the Pacific Islan
        size="50, 50"
        >
        
-    
-
-
 ## Literary History Highlighting Cultural Traditions
 The practice of betel chewing precedes modern history, with mentions in literary traditions spanning cultures. Notably, betel chewing is mentioned in multiple passages in the Sejarah Melayu (Malay Annals) where it belonged to the aristocratic realm as a symbol of status and pleasure.[^15] However, by the 1800s in Singapore, betel chewing was a widespread practice among Indian, Malay, and Peranakan communities, with an 1827 newspaper article commenting that the “very spirited demand” had evolved into the practice becoming “quite a drug” in reference to its stimulant and addictive properties.[^16] By the 1950s, arguably at the height of the practice’s prevalence in Singapore, there was wide consensus that betel nuts were far from a luxury good and instead an integral part of daily life that transcended class boundaries.[^17] 
 
