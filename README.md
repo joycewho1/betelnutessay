@@ -16,6 +16,8 @@ The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pin
        fit="contain"> 
 <param ve-image 
        url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg"
+       contain="true"
+       ref="2"
        label="Areca or Betel-Nut Palm, Singapore"
        description="Oil painting, 1876"
        attribution="Marianne North"
