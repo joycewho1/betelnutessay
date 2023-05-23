@@ -103,8 +103,13 @@ Betel chewing is similarly significant in Indian cultural and literary tradition
        fit="contain">
 
 
-As Marigowda emphases, “to attempt to write about the ceremonial uses of betel nut and betel leaves in India… may be likened to an attempt to write the cultural history of the people of India in one sentence.”[^27] This is extended further when considering other cultures’ different, though often overlapping, valuation and usage of the betel nut. 
-
+As <span eid="Q6712641">M.H. Marigowda</span> emphasises, “to attempt to write about the ceremonial uses of betel nut and betel leaves in India… may be likened to an attempt to write the cultural history of the people of India in one sentence.”[^27] This is extended further when considering other cultures’ different, though often overlapping, valuation and usage of the betel nut. 
+<param ve-image 
+       url="media/marigowda quote.jpg"
+       title="Exercpt from "The Story of Pan Chewing in India"
+       attribution="M.H. Marigowda, 1951, Botanical Museum Leaflets, Harvard University"
+       label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/41735149"
+       fit="contain">
 
 ## Entangled Tangible and Symbolic Cultural Value: Masticatory and Medicinal
 Both the areca nut and betel leaf have had a history of medical applications in Indian and Malay traditions. The areca nut contains ingredients including tannin and active alkaloids including arecaidine and arecoline, the latter of which has toxic properties.[^28] Aside from acting as a mouth freshener which is a crucial custom in India, burned nuts are also effective for cleaning teeth.[^29] This juxtaposes the common imagery of black stained teeth and red spittle associated with betel chewing which are not inevitable to the practice.[^30] Further, the juice of tender areca nuts is reportedly an effective laxative.[^31] In veterinary medicine, powdered areca nuts are used as an anthelmintic to eradicate tapeworms.[^32] The betel leaf also contains essential oils that are used to treat various afflictions like throat inflammation, and oil can also be added to the leaf and directly applied as a dressing to sores.[^33] Betel chewing is also viewed as a digestive aid that strengthens the stomach and a preventative measure against bowel problems like dysentery.[^34] 
