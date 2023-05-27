@@ -153,6 +153,11 @@ A variety of methods to prepare raw nuts also highlights the different uses of t
 
 ## Decline of Betel Chewing in Singapore
 While betel chewing was accepted, practiced, and valued by Asian communities in Singapore throughout the 19th and 20th century, the European community generally viewed betel chewing with disdain and prejudice.[^45] They associated betel chewing with tobacco chewing which was tied to lower classes of society.[^46] Moreover, the visceral impact of stained red lips and blackened teeth associated with daily chewing were deemed “vulgar” and “foul”.[^47]
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Woman_with_hand-rolled_cigarette.jpg"
+       label="Red stains and tobacco associated with betel chewing"
+       attribution="Basile Morin"
+       license="CC BY-SA 4.0 "> 
 
 Although betel chewing was first linked to oral cancer in the early 1900s and connections were increasingly made throughout the 1930s, it was not until the 1950s and 60s when sustained attention was drawn to it with newspapers frequently printing quotes from doctors stating carcinogenic links, discouraging the practice.[^48] Further, tied to broader trends of Singapore’s urbanisation and modernisation, increased attention was placed on urban hygiene.[^49] Betel chewing generates excess red spittle, and public spitting became a public health challenge that was stigmatised throughout the 1930s and 1940s.[^50] The government eventually banned spitting in public places and betel chewing declined in popularity among the younger generation until the practice became increasingly uncommon in Singapore by the 1980s.[^51]
 <param ve-image 
@@ -160,7 +165,6 @@ Although betel chewing was first linked to oral cancer in the early 1900s and co
        label="Street stained from betel spit"
        attribution="Anna Frodesiak"
        license="CC0"> 
-
 
 ## A Sustained Memory
 Betel chewing is nowadays largely survived on in Singapore only by Indian, Bangladeshi, and Burmese migrants and tourists and among cultural heritage trails memorialising the impact of betel-nut trade.[^52] However, betel chewing’s popularity remains high across parts of Asia and the Pacific Islands.[^53] As such, it remains a public health concern due to its addictive and carcinogenic properties.[^54] This also speaks to the interacting factors that culminated in the height of the practice’s popularity – from physical addiction to cultural attachment, the story of betel chewing is complex and spans cultural boundaries. Betel chewing has been valued and devalued according to different narratives and is just one aspect of a broader story on the uses and impacts of the intertwined areca palm and betel leaf both in Singapore and the region.
