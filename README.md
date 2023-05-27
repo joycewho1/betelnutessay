@@ -1,4 +1,3 @@
-# betelnutessay
 <param ve-config 
        title="Masticatory, Medicinal & More: The Tangible and Symbolic Values of the “Betel-Nut Palm” in Singapore and Southeast Asia "
        author="Joyce Hu"
