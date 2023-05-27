@@ -65,7 +65,7 @@ While betel chewing has over time proliferated across Asia and the Pacific Islan
        >
 <param ve-image 
        url="media/SING0222537.jpg"
-       title="*Areca catechu* specimen image from the Philippines"
+       title="Areca palm specimen image from the Philippines"
        attribution="SING Herbarium, Singapore Botanic Gardens"
        license="© SING Herbarium, Singapore Botanic Gardens, used with permission"
        fit="contain"> 
@@ -91,8 +91,6 @@ The spread in the practice is attached to the high cultural and symbolic value a
        attribution="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/41735149"
        fit="contain"
        ref="2">
-
-
 
 In the Malay story of [Raja Donan](https://www.biodiversitylibrary.org/page/41735395), betel chewing is integral to betrothal procedures as a sign of devotion.[^21] Indeed, alongside the nut itself which is presented to guests during special occasions, the betel container *kotak sirih*, which holds the betel quid ingredients in different compartments, was often gifted in proposal or wedding ceremonies.[^22] Overall, both the betel quid as well as the betel leaf itself came with high symbolic social value and were regarded as tokens of friendliness, agreement, invitation, and even as a formal apology in Malay communities.[^23] 
 <param ve-image 
@@ -133,7 +131,6 @@ The areca nut is also a common ingredient in traditional Malayan medicine and cr
        label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/46233500"
        >
 
-
 ## Economic Cultivation
 Given such expansive uses that led to the both the betel leaf and areca nut being incorporated into everyday life, areca palm plantations were cultivated in Singapore, and plantations often interplanted the betel vine with the areca palm.[^39] However, while the areca palm is relatively easy to cultivate, the betel vine requires significant expert knowledge for successful growth to ensure proper propagation techniques and maintaining optimal conditions.[^40] Cultivation of both species thus relied on native expertise and were for local consumption as well as for exportation to countries like India where demand exceeded local production.[^41] The decline in areca and betel plantations corresponded with the rise in the rubber industry, with a reduction of 3,935 acres dedicated to areca palm plantations between 1910 and 1918 while prices for areca nuts followed an inverse upward trend from $3 per pikul (approximately 60kg) to $4-$6 per pikul.[^42]
 <param ve-image 
@@ -157,6 +154,7 @@ A variety of methods to prepare raw nuts also highlights the different uses of t
        title="Various areca nut preparation methods"
        attribution="M.H. Marigowda, 1951, Botanical Museum Leaflets, Harvard University, not in copyright, from the Biodiversity Heritage Library"
        label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/7775575"
+       fit="contain"
        >
 
 ## Decline of Betel Chewing in Singapore
