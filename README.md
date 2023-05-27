@@ -1,7 +1,7 @@
 <param ve-config 
        title="Masticatory, Medicinal & More: The Tangible and Symbolic Values of the “Betel-Nut Palm” in Singapore and Southeast Asia "
        author="Joyce Hu"
-       banner="https://upload.wikimedia.org/wikipedia/commons/5/52/Areca_nut_trees.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/f/ff/The_National_Geographic_Magazine_Vol_16_1905_-_Betel-nut_Palms.jpg"
        layout="vertical"> 
        
 ## Behind the “Betel-nut Palm” Moniker 
