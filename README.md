@@ -141,7 +141,7 @@ Given such expansive uses that led to the both the betel leaf and areca nut bein
        fit="contain"
        >
 <param ve-image 
-       url="media/betel cultivation.jpg"
+       url="media/betel cultivation 1.jpg"
        title="Betel Leaf Pepper Cultivation"
        attribution="The Gardens' Bulletin; Straits Settlements, not in copyright, from the Biodiversity Heritage Library"
        label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/6609394"
