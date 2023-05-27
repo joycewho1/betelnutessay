@@ -9,7 +9,7 @@ The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pin
 
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Areca_catechu_2.jpg"
-       label="*Areca catechu*"
+       title="*Areca catechu*"
        attribution="Franz Xaver"
        license="CC BY-SA 3.0"
        fit="contain"> 
