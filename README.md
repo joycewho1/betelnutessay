@@ -136,14 +136,30 @@ Given such expansive uses that led to the both the betel leaf and areca nut bein
        attribution="The Gardens' Bulletin; Straits Settlements, not in copyright, from the Biodiversity Heritage Library"
        label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/6609393"
        >
+<param ve-image 
+       url="media/betel cultivation.jpg"
+       title="Betel Leaf Pepper Cultivation"
+       attribution="The Gardens' Bulletin; Straits Settlements, not in copyright, from the Biodiversity Heritage Library"
+       label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/6609394"
+       >
 
 A variety of methods to prepare raw nuts also highlights the different uses of the areca nut and follows a similar trend across India and Malaya.[^43] Some of the main kinds of prepared nuts include whole dried nuts (*unde-adike, pinang kossi*), split or cut nuts of different variations (*battalu adike, churu-adike, lavanga-churu, pinang blah*), smoked nuts (*pinang salai*), and salted nuts (*pinang asin*).[^44]  
-
+<param ve-image 
+       url="media/nut types.jpg"
+       title="Various areca nut preparation methods"
+       attribution="M.H. Marigowda, 1951, Botanical Museum Leaflets, Harvard University, not in copyright, from the Biodiversity Heritage Library"
+       label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/7775575"
+       >
 
 ## Decline of Betel Chewing in Singapore
 While betel chewing was accepted, practiced, and valued by Asian communities in Singapore throughout the 19th and 20th century, the European community generally viewed betel chewing with disdain and prejudice.[^45] They associated betel chewing with tobacco chewing which was tied to lower classes of society.[^46] Moreover, the visceral impact of stained red lips and blackened teeth associated with daily chewing were deemed “vulgar” and “foul”.[^47]
 
-Although betel chewing was first linked to oral cancer in the early 1900s and connections were increasingly made throughout the 1930s, it was not until the 1950s and 60s when sustained attention was drawn to it with newspapers frequently printing quotes from doctors stating carcinogenic links, discouraging the practice.[^48] Further, tied to broader trends of Singapore’s urbanisation and modernisation, increased attention was placed on urban hygiene.[^49] Betel chewing generates excess red spittle, and public spitting became a public health challenge that was stigmatised throughout the 1930s and 1940s.[^50] The government eventually banned spitting in public places and betel chewing declined in popularity among the younger generation until the practice became increasingly uncommon in Singapore by the 1980s.[^51]  
+Although betel chewing was first linked to oral cancer in the early 1900s and connections were increasingly made throughout the 1930s, it was not until the 1950s and 60s when sustained attention was drawn to it with newspapers frequently printing quotes from doctors stating carcinogenic links, discouraging the practice.[^48] Further, tied to broader trends of Singapore’s urbanisation and modernisation, increased attention was placed on urban hygiene.[^49] Betel chewing generates excess red spittle, and public spitting became a public health challenge that was stigmatised throughout the 1930s and 1940s.[^50] The government eventually banned spitting in public places and betel chewing declined in popularity among the younger generation until the practice became increasingly uncommon in Singapore by the 1980s.[^51]
+<param ve-image 
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Spit_from_chewing_Areca_nut_02.JPG"
+       label="Street stained from betel spit"
+       attribution="Anna Frodesiak"
+       license="CC0"> 
 
 
 ## A Sustained Memory
