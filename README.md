@@ -34,7 +34,7 @@ The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pin
        label="Plate of betel vine"
        description="Plate from book, estimated 1880-1883"
        attribution="Francisco Manuel Blanco"
-       license="PD-US-expired"
+       license="Not in copyright, from Wikimedia Commons"
        fit="contain">  
 
 ## Chewing the Betel-Nut Quid
