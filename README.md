@@ -8,13 +8,13 @@
 ## Behind the “Betel-nut Palm” Moniker 
 The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pinang palm, areca-nut palm, and betel palm, is a naturalised non-native palm species found in Singapore.[^1]  While the areca palm is known by the moniker ‘betel-nut palm’, this name actually derives from its long association with the vine of the pepper plant *Piper betle* L. which often grows around the areca palm.[^2]  These are two distinct species that have become intertwined both in their cultivation and in their cultural uses throughout the region. To uncover the value of the ‘betel-nut’ thus involves exploring both *Areca catechu* which produces the areca nut and *Piper betle* L. which produces the betel leaf, which have been adopted for many uses, including as medicines, dyes, adhesives, and culinary ingredients.[^3] Amongst these vast applications, perhaps the species’ most notable mark in Singapore and Southeast Asia has been in the widespread practice of betel-nut chewing.[^4] The English name for the practice ‘betel-nut chewing’ (hereafter ‘betel chewing’ to refer to the practice and ‘betel-nut’ when referring to the areca nut and betel leaf together) perpetuates the misnomer of the two species’ relationship as it is the areca nut – wrapped inside the betel leaf – that is chewed, typically alongside other ingredients.[^5] As a rich multicultural regional tradition, the scope of betel chewing’s impact surpasses the act itself and is an apt reflection of Singapore’s multicultural history.
 
-<param ve-compare 
+<param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Areca_catechu_2.jpg"
        label="*Areca catechu*"
        attribution="Franz Xaver"
        license="CC BY-SA 3.0"
        fit="contain"> 
-<param ve-compare
+<param ve-image
        url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg"
        contain="true"
        ref="2"
@@ -65,6 +65,11 @@ While betel chewing has over time proliferated across Asia and the Pacific Islan
        coords="10, 118.83"
        size="50, 50"
        >
+<param ve-image 
+       url="media/SING0222537.jpg"
+       title="*Areca catechu* specimen image from the Philippines"
+       attribution="SING Herbarium, Singapore Botanic Gardens"
+       license="© SING Herbarium, Singapore Botanic Gardens, used with permission"> 
        
 ## Literary History Highlighting Cultural Traditions
 The practice of betel chewing precedes modern history, with mentions in literary traditions spanning cultures. Notably, betel chewing is mentioned in multiple passages in the <span eid="Q5254550">Sejarah Melayu (Malay Annals)</span> where it belonged to the aristocratic realm as a symbol of status and pleasure.[^15] However, by the 1800s in Singapore, betel chewing was a widespread practice among Indian, Malay, and Peranakan communities, with an [1827 newspaper article](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18280313-1.2.6?oref=article-citation) commenting that the “very spirited demand” had evolved into the practice becoming “quite a drug” in reference to its stimulant and addictive properties.[^16] By the 1950s, arguably at the height of the practice’s prevalence in Singapore, there was wide consensus that betel nuts were [far from a luxury good](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19530714-1.2.78?oref=article-citation) and instead an integral part of daily life that transcended class boundaries.[^17] 
