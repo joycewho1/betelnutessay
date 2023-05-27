@@ -129,7 +129,13 @@ The areca nut is also a common ingredient in traditional Malayan medicine and cr
 
 
 ## Economic Cultivation
-Given such expansive uses that led to the both the betel leaf and areca nut being incorporated into everyday life, areca palm plantations were cultivated in Singapore, and plantations often interplanted the betel vine with the areca palm.[^39] However, while the areca palm is relatively easy to cultivate, the betel vine requires significant expert knowledge for successful growth to ensure proper propagation techniques and maintaining optimal conditions.[^40] Cultivation of both species thus relied on native expertise and were for local consumption as well as for exportation to countries like India where demand exceeded local production.[^41] The decline in areca and betel plantations corresponded with the rise in the rubber industry, with a reduction of 3,935 acres dedicated to areca palm plantations between 1910 and 1918 while prices for areca nuts followed an inverse upward trend from $3 per pikul (approximately 60kg) to $4-$6 per pikul.[^42]  
+Given such expansive uses that led to the both the betel leaf and areca nut being incorporated into everyday life, areca palm plantations were cultivated in Singapore, and plantations often interplanted the betel vine with the areca palm.[^39] However, while the areca palm is relatively easy to cultivate, the betel vine requires significant expert knowledge for successful growth to ensure proper propagation techniques and maintaining optimal conditions.[^40] Cultivation of both species thus relied on native expertise and were for local consumption as well as for exportation to countries like India where demand exceeded local production.[^41] The decline in areca and betel plantations corresponded with the rise in the rubber industry, with a reduction of 3,935 acres dedicated to areca palm plantations between 1910 and 1918 while prices for areca nuts followed an inverse upward trend from $3 per pikul (approximately 60kg) to $4-$6 per pikul.[^42]
+<param ve-image 
+       url="media/betel prices.jpg"
+       title="Betel prices from 1910-1918"
+       attribution="The Gardens' Bulletin; Straits Settlements, not in copyright, from the Biodiversity Heritage Library"
+       label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/6609393"
+       >
 
 A variety of methods to prepare raw nuts also highlights the different uses of the areca nut and follows a similar trend across India and Malaya.[^43] Some of the main kinds of prepared nuts include whole dried nuts (*unde-adike, pinang kossi*), split or cut nuts of different variations (*battalu adike, churu-adike, lavanga-churu, pinang blah*), smoked nuts (*pinang salai*), and salted nuts (*pinang asin*).[^44]  
 
