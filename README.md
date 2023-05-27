@@ -140,12 +140,14 @@ Given such expansive uses that led to the both the betel leaf and areca nut bein
        title="Betel prices from 1910-1918"
        attribution="The Gardens' Bulletin; Straits Settlements, not in copyright, from the Biodiversity Heritage Library"
        label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/6609393"
+       fit="contain"
        >
 <param ve-image 
        url="media/betel cultivation.jpg"
        title="Betel Leaf Pepper Cultivation"
        attribution="The Gardens' Bulletin; Straits Settlements, not in copyright, from the Biodiversity Heritage Library"
        label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/6609394"
+       fit="contain"
        >
 
 A variety of methods to prepare raw nuts also highlights the different uses of the areca nut and follows a similar trend across India and Malaya.[^43] Some of the main kinds of prepared nuts include whole dried nuts (*unde-adike, pinang kossi*), split or cut nuts of different variations (*battalu adike, churu-adike, lavanga-churu, pinang blah*), smoked nuts (*pinang salai*), and salted nuts (*pinang asin*).[^44]  
