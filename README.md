@@ -33,8 +33,7 @@ The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pin
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Piper_betle_Blanco1.12.jpg"
        label="Plate of betel vine"
        description="Plate from book, estimated 1880-1883"
-       attribution="Francisco Manuel Blanco"
-       license="Not in copyright, from Wikimedia Commons"
+       attribution="Francisco Manuel Blanco, not in copyright, from Wikimedia Commons"
        fit="contain">  
 
 ## Chewing the Betel-Nut Quid
@@ -75,7 +74,7 @@ The practice of betel chewing precedes modern history, with mentions in literary
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/a/ac/Frontispiece_of_a_Jawi_edition_of_the_Malay_Annals.jpg"
        title="Frontispiece of a Jawi edition of the Sejerah Melayu"
-       label="Wikimedia Commons, not in copyright"
+       attribution="Wikimedia Commons, not in copyright"
        fit="contain">
 
 The spread in the practice is attached to the high cultural and symbolic value associated with both betel chewing and the betel leaf. In the Sri Rama (Malay derivation of the <span eid="Q37293">Ramayana</span>, betel chewing is a gesture of <span data-click-image-zoomto="1|47,408,502,491">welcoming and invitation</span>[^18] This is paired with expressions of humility about the quality of the nut as an additional token of Malay politeness.[^19] The Sri Rama also highlights the physical effects of betel chewing, notably its <span data-click-image-zoomto="2|149,563,343,336">“stupefying effect”</span> which underscores the chemical properties tied to its medicinal value.[^20]  
