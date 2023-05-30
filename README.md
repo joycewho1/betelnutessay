@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Masticatory, Medicinal & More: The Tangible and Symbolic Values of the “Betel-Nut Palm” in Singapore and Southeast Asia "
+       title="Masticatory, Medicinal & More: Tangible and Symbolic Values of the “Betel-Nut Palm” in Singapore and Southeast Asia"
        author="Joyce Hu"
        banner="https://upload.wikimedia.org/wikipedia/commons/f/ff/The_National_Geographic_Magazine_Vol_16_1905_-_Betel-nut_Palms.jpg"
        layout="vertical"> 
@@ -14,20 +14,20 @@ The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pin
        license="CC BY-SA 3.0"
        fit="contain"> 
 <param ve-image
-       title="Areca or Betel-Nut Palm, Singapore (Oil painting, 1876)"
+      label="Areca or Betel-Nut Palm, Singapore (Oil painting, 1876)"
        url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg"
        description="Oil painting, 1876"
        attribution="Marianne North"
        license="CC BY-NC"
        fit="contain"> 
 <param ve-image 
-       title="Betel vine"
+       label="Betel vine"
        url="https://upload.wikimedia.org/wikipedia/commons/5/52/Betel_Piper_betle.jpg"
        attribution="Nayan J Nath"
        license="CC BY-SA 4.0"
        fit="contain"
        > <param ve-image 
-       title="Plate of betel vine"
+       label="Plate of betel vine"
        url="https://upload.wikimedia.org/wikipedia/commons/9/97/Piper_betle_Blanco1.12.jpg"
        description="Plate from book, estimated 1880-1883"
        attribution="Francisco Manuel Blanco, not in copyright, from Wikimedia Commons"
