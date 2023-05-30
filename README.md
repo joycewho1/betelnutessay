@@ -1,5 +1,5 @@
 <param ve-config 
-       title="Masticatory, Medicinal & More: Tangible and Symbolic Values of the “Betel-Nut Palm” in Singapore and Southeast Asia"
+       title="Masticatory, Medicinal & More: The “Betel-Nut Palm” in Singapore and Southeast Asia"
        author="Joyce Hu"
        banner="https://upload.wikimedia.org/wikipedia/commons/f/ff/The_National_Geographic_Magazine_Vol_16_1905_-_Betel-nut_Palms.jpg"
        layout="vertical"> 
