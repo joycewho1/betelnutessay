@@ -63,8 +63,7 @@ While betel chewing has over time proliferated across Asia and the Pacific Islan
 <param ve-image 
        url="media/SING0222537.jpg"
        title="Areca palm specimen image from the Philippines"
-       attribution="SING Herbarium, Singapore Botanic Gardens"
-       license="© SING Herbarium, Singapore Botanic Gardens, used with permission"
+       attribution="SING Herbarium, Singapore Botanic Gardens, used with permission"
        fit="contain"> 
        
 ## Literary History Highlighting Cultural Traditions
