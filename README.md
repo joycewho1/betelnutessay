@@ -14,24 +14,21 @@ The areca palm (*Areca catechu*), also commonly known as the betel-nut palm, pin
        license="CC BY-SA 3.0"
        fit="contain"> 
 <param ve-image
-       url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg"
-       contain="true"
-       ref="2"
        title="Areca or Betel-Nut Palm, Singapore (Oil painting, 1876)"
+       url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/LSW/RBGM/LSW_RBGM_MN_CD6_583-001.jpg"
        description="Oil painting, 1876"
        attribution="Marianne North"
        license="CC BY-NC"
        fit="contain"> 
 <param ve-image 
-       curtain="true"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/52/Betel_Piper_betle.jpg"
        title="Betel vine"
+       url="https://upload.wikimedia.org/wikipedia/commons/5/52/Betel_Piper_betle.jpg"
        attribution="Nayan J Nath"
        license="CC BY-SA 4.0"
        fit="contain"
        > <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/9/97/Piper_betle_Blanco1.12.jpg"
        title="Plate of betel vine"
+       url="https://upload.wikimedia.org/wikipedia/commons/9/97/Piper_betle_Blanco1.12.jpg"
        description="Plate from book, estimated 1880-1883"
        attribution="Francisco Manuel Blanco, not in copyright, from Wikimedia Commons"
        fit="contain">  
