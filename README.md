@@ -117,13 +117,13 @@ Both the areca nut and betel leaf have had a history of medical applications in 
 
 The areca nut is also a common ingredient in traditional Malayan medicine and crosses into the spiritual realm. For example, one medicinal manual from 1923 recorded that the betel can be chewed alongside the root of *Massoia aromatica* while repeating prayers that aim to keep the devil and illness away.[^35] Additionally, given the entangled cultural significance of the areca nut being a positive symbol that is often given and received, the refusal to receive an areca nut is viewed as symptom of illnesses attributed to evil spirits like a <span eid="Q7161327">*pelesit*</span>.[^36] Within the realm of divination, the spittle produced by chewing betel is used in “water-gazing” which enables a Malay wizard (<span eid="Q7403604">*pawang*</span>*, bomor*) to make diagnoses.[^37] Aside from the nut, young shoots of the areca palm were used by Malay women to induce abortions during early pregnancy.[^38]
 <param ve-image 
-       url="media/betel illness.jpg"
+       url="https://iiif.archivelab.org/iiif/Malaypoisonscha00Giml/manifest.json"
+       seq="42"
        title="Excerpt from 'Malay Poisons and Charm Cures' describing rejecting a pinang nut as a sign of an evil spirit"
        attribution="John Gimlette, not in copyright, from the Biodiversity Heritage Library"
        label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/46233500"
        >
-<param ve-iframe
-       src="https://www.biodiversitylibrary.org/page/46233500#page/60/mode/1up">
+
 ## Economic Cultivation
 Given such expansive uses that led to the both the betel leaf and areca nut being incorporated into everyday life, areca palm plantations were cultivated in Singapore, and plantations often interplanted the betel vine with the areca palm.[^39] However, while the areca palm is relatively easy to cultivate, the betel vine requires significant expert knowledge for successful growth to ensure proper propagation techniques and maintaining optimal conditions.[^40] Cultivation of both species thus relied on native expertise and were for local consumption as well as for exportation to countries like India where demand exceeded local production.[^41] The decline in areca and betel plantations corresponded with the rise in the rubber industry, with a reduction of 3,935 acres dedicated to areca palm plantations between 1910 and 1918 while prices for areca nuts followed an inverse upward trend from $3 per pikul (approximately 60kg) to $4-$6 per pikul.[^42]
 <param ve-image 
@@ -132,6 +132,9 @@ Given such expansive uses that led to the both the betel leaf and areca nut bein
        attribution="The Gardens' Bulletin; Straits Settlements, not in copyright, from the Biodiversity Heritage Library"
        label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/6609393"
        fit="contain"
+       >
+<param ve-iframe
+       src="https://archive.org/details/gardensbulletins02sing/page/298/mode/1up?view=theater"
        >
 <param ve-image 
        url="media/betel cultivation 1.jpg"
