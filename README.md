@@ -76,11 +76,11 @@ The practice of betel chewing precedes modern history, with mentions in literary
 
 The spread in the practice is attached to the high cultural and symbolic value associated with both betel chewing and the betel leaf. In the Sri Rama (Malay derivation of the <span eid="Q37293">Ramayana</span>, betel chewing is a gesture of <span data-click-image-zoomto="1|47,408,502,491">welcoming and invitation</span>[^18] This is paired with expressions of humility about the quality of the nut as an additional token of Malay politeness.[^19] The Sri Rama also highlights the physical effects of betel chewing, notably its <span data-click-image-zoomto="2|149,563,343,336">“stupefying effect”</span> which underscores the chemical properties tied to its medicinal value.[^20]  
 <param ve-image 
-       url="media/sri rama 106.jpg"
+       url="https://iiif.archivelab.org/iiif/details/journalofstra17181886roya/manifest.json"
        title="Excerpt from the Sri Rama"
        attribution="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/41735149"
        fit="contain"
-       ref="1">
+       seq="106">
 <param ve-image 
        url="media/sri rama 113.jpg"
        title="Excerpt from the Sri Rama"
