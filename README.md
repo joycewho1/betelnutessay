@@ -74,7 +74,7 @@ The practice of betel chewing precedes modern history, with mentions in literary
        attribution="Wikimedia Commons, not in copyright"
        fit="contain">
 
-The spread in the practice is attached to the high cultural and symbolic value associated with both betel chewing and the betel leaf. In the Sri Rama (Malay derivation of the <span eid="Q37293">Ramayana</span>, betel chewing is a gesture of <span data-click-image-zoomto="1|47,408,502,491">welcoming and invitation</span>[^18] This is paired with expressions of humility about the quality of the nut as an additional token of Malay politeness.[^19] The Sri Rama also highlights the physical effects of betel chewing, notably its <span data-click-image-zoomto="2|149,563,343,336">“stupefying effect”</span> which underscores the chemical properties tied to its medicinal value.[^20]  
+The spread in the practice is attached to the high cultural and symbolic value associated with both betel chewing and the betel leaf. In the Sri Rama (Malay derivation of the <span eid="Q37293">Ramayana</span>, betel chewing is a gesture of <span data-click-image-zoomto="1|98,1751,2220,1760">welcoming and invitation</span>[^18] This is paired with expressions of humility about the quality of the nut as an additional token of Malay politeness.[^19] The Sri Rama also highlights the physical effects of betel chewing, notably its <span data-click-image-zoomto="2|402,2070,1823,1445">“stupefying effect”</span> which underscores the chemical properties tied to its medicinal value.[^20]  
 <param ve-image 
        manifest="https://iiif.archivelab.org/iiif/journalofstra17181886roya/manifest.json"
        title="Excerpt from the Sri Rama"
@@ -95,7 +95,7 @@ In the Malay story of [Raja Donan](https://www.biodiversitylibrary.org/page/4173
        manifest="https://iiif.archivelab.org/iiif/journalofstra17181886roya/manifest.json"
        title="Excerpt from the Raja Donan"
        attribution="Not in copyright, from the Biodiversity Heritage Library"
-       seq="253,254,255"
+       seq="413"
        fit="contain">
 
 Betel chewing is similarly significant in Indian cultural and literary traditions. While *pan* originally referred to the betel leaf, it evolved to denote both the areca nut and betel leaf.[^24] The <span eid="Q606278">*Hitopadesha*</span>, (directly translated as good or friendly advice) is a compilation of Sanskrit fables drawing on *niti* or the principles of morality to advise on proper conduct.[^25] In the [story of the faithful Rajpoot](http://www.columbia.edu/itc/mealac/pritchett/00litlinks/hitopadesha_arnold/3_war.html#07_faithful_rajpoot), thirteen ‘virtues’ of the areca nut are given, capturing <span data-click-image-zoomto="1047,101,874,836">attributes</span> like it being sweet, salty, bitter, and astringent, practical and <span data-click-image-zoomto="1,70,907,869">medicinal properties</span> such as aiding in digestion, and <span data-click-image-zoomto="492,302,811,777">uses of social value</span> like acting as a mouth freshener and aphrodisiac.[^26]
