@@ -80,8 +80,8 @@ The spread in the practice is attached to the high cultural and symbolic value a
        title="Excerpt from the Sri Rama"
        attribution="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/41735149"
        fit="contain"
-       ref="1"
-       seq="106">
+       seq="106"
+        ref="1">
 <param ve-image 
        manifest="https://iiif.archivelab.org/iiif/journalofstra17181886roya/manifest.json"
        title="Excerpt from the Sri Rama"
