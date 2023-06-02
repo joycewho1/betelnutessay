@@ -91,12 +91,8 @@ The spread in the practice is attached to the high cultural and symbolic value a
        ref="2">
 
 In the Malay story of [Raja Donan](https://www.biodiversitylibrary.org/page/41735395), betel chewing is integral to betrothal procedures as a sign of devotion.[^21] Indeed, alongside the nut itself which is presented to guests during special occasions, the betel container *kotak sirih*, which holds the betel quid ingredients in different compartments, was often gifted in proposal or wedding ceremonies.[^22] Overall, both the betel quid as well as the betel leaf itself came with high symbolic social value and were regarded as tokens of friendliness, agreement, invitation, and even as a formal apology in Malay communities.[^23] 
-<param ve-image 
-       manifest="https://iiif.archivelab.org/iiif/journalofstra17181886roya/manifest.json"
-       title="Excerpt from the Raja Donan"
-       attribution="Not in copyright, from the Biodiversity Heritage Library"
-       seq="413"
-       fit="contain">
+<param ve-iframe 
+src="https://archive.org/embed/journalofstra17181886roya" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>">
 
 Betel chewing is similarly significant in Indian cultural and literary traditions. While *pan* originally referred to the betel leaf, it evolved to denote both the areca nut and betel leaf.[^24] The <span eid="Q606278">*Hitopadesha*</span>, (directly translated as good or friendly advice) is a compilation of Sanskrit fables drawing on *niti* or the principles of morality to advise on proper conduct.[^25] In the [story of the faithful Rajpoot](http://www.columbia.edu/itc/mealac/pritchett/00litlinks/hitopadesha_arnold/3_war.html#07_faithful_rajpoot), thirteen ‘virtues’ of the areca nut are given, capturing <span data-click-image-zoomto="1047,101,874,836">attributes</span> like it being sweet, salty, bitter, and astringent, practical and <span data-click-image-zoomto="1,70,907,869">medicinal properties</span> such as aiding in digestion, and <span data-click-image-zoomto="492,302,811,777">uses of social value</span> like acting as a mouth freshener and aphrodisiac.[^26]
 <param ve-image 
