@@ -133,7 +133,7 @@ Given such expansive uses that led to the both the betel leaf and areca nut bein
 
 A variety of methods to prepare raw nuts also highlights the different uses of the areca nut and follows a similar trend across India and Malaya.[^43] Some of the main kinds of prepared nuts include whole dried nuts (*unde-adike, pinang kossi*), split or cut nuts of different variations (*battalu adike, churu-adike, lavanga-churu, pinang blah*), smoked nuts (*pinang salai*), and salted nuts (*pinang asin*).[^44]  
 <param ve-image 
-       mainfest="https://iiif.archivelab.org/iiif/mobot31753003541247/manifest.json"
+       manifest="https://iiif.archivelab.org/iiif/mobot31753003541247/manifest.json"
        seq="194"
        title="Various areca nut preparation methods"
        attribution="M.H. Marigowda, 1951, Botanical Museum Leaflets, Harvard University, not in copyright, from the Biodiversity Heritage Library"
