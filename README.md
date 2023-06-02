@@ -117,7 +117,7 @@ Both the areca nut and betel leaf have had a history of medical applications in 
 
 The areca nut is also a common ingredient in traditional Malayan medicine and crosses into the spiritual realm. For example, one medicinal manual from 1923 recorded that the betel can be chewed alongside the root of *Massoia aromatica* while repeating prayers that aim to keep the devil and illness away.[^35] Additionally, given the entangled cultural significance of the areca nut being a positive symbol that is often given and received, the refusal to receive an areca nut is viewed as symptom of illnesses attributed to evil spirits like a <span eid="Q7161327">*pelesit*</span>.[^36] Within the realm of divination, the spittle produced by chewing betel is used in “water-gazing” which enables a Malay wizard (<span eid="Q7403604">*pawang*</span>*, bomor*) to make diagnoses.[^37] Aside from the nut, young shoots of the areca palm were used by Malay women to induce abortions during early pregnancy.[^38]
 <param ve-image 
-       url="https://iiif.archivelab.org/iiif/Malaypoisonscha00Giml/manifest.json"
+       manifest="https://iiif.archivelab.org/iiif/Malaypoisonscha00Giml/manifest.json"
        seq="42"
        title="Excerpt from 'Malay Poisons and Charm Cures' describing rejecting a pinang nut as a sign of an evil spirit"
        attribution="John Gimlette, not in copyright, from the Biodiversity Heritage Library"
@@ -137,7 +137,6 @@ A variety of methods to prepare raw nuts also highlights the different uses of t
        seq="194"
        title="Various areca nut preparation methods"
        attribution="M.H. Marigowda, 1951, Botanical Museum Leaflets, Harvard University, not in copyright, from the Biodiversity Heritage Library"
-       label="Not in copyright, from the Biodiversity Heritage Library https://www.biodiversitylibrary.org/page/7775575"
        fit="contain"
        >
 
