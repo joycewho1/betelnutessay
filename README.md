@@ -140,6 +140,10 @@ A variety of methods to prepare raw nuts also highlights the different uses of t
        fit="contain"
        >
 <param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1161204.jpg"
+       title="Workers at a betel nut plantation, Singapore, c. 1880s-1890s"
+       attribution="Collection of the National Museum of Singapore, National Heritage Board"> 
+<param ve-image 
        url="media/NAS Betel seller.jpg"
        title="Betel stall seller in Singapore, 1968"
        attribution="George W. Porter Collection, courtesy of National Archives of Singapore"> 
