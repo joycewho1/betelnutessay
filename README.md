@@ -139,14 +139,14 @@ A variety of methods to prepare raw nuts also highlights the different uses of t
        attribution="M.H. Marigowda, 1951, Botanical Museum Leaflets, Harvard University, not in copyright, from the Biodiversity Heritage Library"
        fit="contain"
        >
+<param ve-image 
+       url="media/NAS Betel seller.jpg"
+       title="Betel stall seller in Singapore, 1968"
+       attribution="George W. Porter Collection, courtesy of National Archives of Singapore"> 
 
 ## Decline of Betel Chewing in Singapore
 While betel chewing was accepted, practiced, and valued by Asian communities in Singapore throughout the 19th and 20th century, the European community generally viewed betel chewing with disdain and prejudice.[^45] They associated betel chewing with tobacco chewing which was tied to lower classes of society.[^46] Moreover, the visceral impact of stained red lips and blackened teeth associated with daily chewing were deemed “vulgar” and “foul”.[^47]
-<param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/f/ff/Woman_with_hand-rolled_cigarette.jpg"
-       label="Red stains and tobacco associated with betel chewing"
-       attribution="Basile Morin"
-       license="CC BY-SA 4.0 "> 
+
 
 Although betel chewing was first linked to oral cancer in the early 1900s and connections were increasingly made throughout the 1930s, it was not until the 1950s and 60s when sustained attention was drawn to it with newspapers frequently printing quotes from doctors stating carcinogenic links, discouraging the practice.[^48] Further, tied to broader trends of Singapore’s urbanisation and modernisation, increased attention was placed on urban hygiene.[^49] Betel chewing generates excess red spittle, and public spitting became a public health challenge that was stigmatised throughout the 1930s and 1940s.[^50] The government eventually banned spitting in public places and betel chewing declined in popularity among the younger generation until the practice became increasingly uncommon in Singapore by the 1980s.[^51]
 <param ve-image 
