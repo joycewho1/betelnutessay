@@ -90,9 +90,14 @@ The spread in the practice is attached to the high cultural and symbolic value a
        seq="211"
        ref="2">
 
-In the Malay story of [Raja Donan](https://www.biodiversitylibrary.org/page/41735395), betel chewing is integral to betrothal procedures as a sign of devotion.[^21] Indeed, alongside the nut itself which is presented to guests during special occasions, the betel container *kotak sirih*, which holds the betel quid ingredients in different compartments, was often gifted in proposal or wedding ceremonies.[^22] Overall, both the betel quid as well as the betel leaf itself came with high symbolic social value and were regarded as tokens of friendliness, agreement, invitation, and even as a formal apology in Malay communities.[^23] 
+In the Malay story of [Raja Donan](https://www.biodiversitylibrary.org/page/41735395), betel chewing is integral to betrothal procedures as a sign of devotion.[^21] Indeed, alongside the nut itself which is presented to guests during special occasions, the betel container *kotak sirih/sireh*, which holds the betel quid ingredients in different compartments, was often gifted in proposal or wedding ceremonies.[^22] Overall, both the betel quid as well as the betel leaf itself came with high symbolic social value and were regarded as tokens of friendliness, agreement, invitation, and even as a formal apology in Malay communities.[^23] 
 <param ve-iframe 
 src="https://archive.org/details/journalofstra17181886roya/page/255/mode/1up?q=betel&view=theater">
+<param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1040284.jpg"
+       title="'Sireh' box set, Singapore, early 20th century"
+       attribution="Collection of the National Museum of Singapore, National Heritage Board"
+       description="This sireh set consists of a pair of shears for cutting areca nuts as well as four compartments that hold betel leaves, powdered gambier, lime and sliced nuts."> 
 
 Betel chewing is similarly significant in Indian cultural and literary traditions. While *pan* originally referred to the betel leaf, it evolved to denote both the areca nut and betel leaf.[^24] The <span eid="Q606278">*Hitopadesha*</span>, (directly translated as good or friendly advice) is a compilation of Sanskrit fables drawing on *niti* or the principles of morality to advise on proper conduct.[^25] In the [story of the faithful Rajpoot](http://www.columbia.edu/itc/mealac/pritchett/00litlinks/hitopadesha_arnold/3_war.html#07_faithful_rajpoot), thirteen ‘virtues’ of the areca nut are given, capturing <span data-click-image-zoomto="1047,101,874,836">attributes</span> like it being sweet, salty, bitter, and astringent, practical and <span data-click-image-zoomto="1,70,907,869">medicinal properties</span> such as aiding in digestion, and <span data-click-image-zoomto="492,302,811,777">uses of social value</span> like acting as a mouth freshener and aphrodisiac.[^26]
 <param ve-image 
@@ -109,12 +114,11 @@ As <span eid="Q6712641">M.H. Marigowda</span> emphasises, “to attempt to write
 ## Entangled Tangible and Symbolic Cultural Value: Masticatory and Medicinal
 Both the areca nut and betel leaf have had a history of medical applications in Indian and Malay traditions. The areca nut contains ingredients including tannin and active alkaloids including arecaidine and <span eid="Q423515">arecoline</span>, the latter of which has toxic properties.[^28] Aside from acting as a mouth freshener which is a crucial custom in India, burned nuts are also effective for cleaning teeth.[^29] This juxtaposes the common imagery of black stained teeth and red spittle associated with betel chewing which are not inevitable to the practice.[^30] Further, the juice of tender areca nuts is reportedly an effective laxative.[^31] In veterinary medicine, powdered areca nuts are used as an anthelmintic to eradicate tapeworms.[^32] The betel leaf also contains essential oils that are used to treat various afflictions like throat inflammation, and oil can also be added to the leaf and directly applied as a dressing to sores.[^33] Betel chewing is also viewed as a digestive aid that strengthens the stomach and a preventative measure against bowel problems like dysentery.[^34] 
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/5/51/Thailand_Hill_Tribes_%282401861669%29.jpg"
-       title="Teeth stained black from habitual betel chewing"
-       attribution="Steve Evans"
-       license="CC BY 2.0"
-       > 
-
+       url="https://www.roots.gov.sg/CollectionImages/1044072.jpg"
+       title="'Sireh' metal container, Singapore, early 20th century"
+       attribution="Collection of the National Museum of Singapore, National Heritage Board"
+       description="The sireh container is commonly used to store betel leaves used for chewing and other purposes."> 
+       
 The areca nut is also a common ingredient in traditional Malayan medicine and crosses into the spiritual realm. For example, one medicinal manual from 1923 recorded that the betel can be chewed alongside the root of *Massoia aromatica* while repeating prayers that aim to keep the devil and illness away.[^35] Additionally, given the entangled cultural significance of the areca nut being a positive symbol that is often given and received, the refusal to receive an areca nut is viewed as symptom of illnesses attributed to evil spirits like a <span eid="Q7161327">*pelesit*</span>.[^36] Within the realm of divination, the spittle produced by chewing betel is used in “water-gazing” which enables a Malay wizard (<span eid="Q7403604">*pawang*</span>*, bomor*) to make diagnoses.[^37] Aside from the nut, young shoots of the areca palm were used by Malay women to induce abortions during early pregnancy.[^38]
 <param ve-image 
        manifest="https://iiif.archivelab.org/iiif/Malaypoisonscha00Giml/manifest.json"
@@ -143,14 +147,13 @@ A variety of methods to prepare raw nuts also highlights the different uses of t
        url="https://www.roots.gov.sg/CollectionImages/1161204.jpg"
        title="Workers at a betel nut plantation, Singapore, c. 1880s-1890s"
        attribution="Collection of the National Museum of Singapore, National Heritage Board"> 
+
+## Decline of Betel Chewing in Singapore
+While betel chewing was accepted, practiced, and valued by Asian communities in Singapore throughout the 19th and 20th century, the European community generally viewed betel chewing with disdain and prejudice.[^45] They associated betel chewing with tobacco chewing which was tied to lower classes of society.[^46] Moreover, the visceral impact of stained red lips and blackened teeth associated with daily chewing were deemed “vulgar” and “foul”.[^47]
 <param ve-image 
        url="media/NAS Betel seller.jpg"
        title="Betel stall seller in Singapore, 1968"
        attribution="George W. Porter Collection, courtesy of National Archives of Singapore"> 
-
-## Decline of Betel Chewing in Singapore
-While betel chewing was accepted, practiced, and valued by Asian communities in Singapore throughout the 19th and 20th century, the European community generally viewed betel chewing with disdain and prejudice.[^45] They associated betel chewing with tobacco chewing which was tied to lower classes of society.[^46] Moreover, the visceral impact of stained red lips and blackened teeth associated with daily chewing were deemed “vulgar” and “foul”.[^47]
-
 
 Although betel chewing was first linked to oral cancer in the early 1900s and connections were increasingly made throughout the 1930s, it was not until the 1950s and 60s when sustained attention was drawn to it with newspapers frequently printing quotes from doctors stating carcinogenic links, discouraging the practice.[^48] Further, tied to broader trends of Singapore’s urbanisation and modernisation, increased attention was placed on urban hygiene.[^49] Betel chewing generates excess red spittle, and public spitting became a public health challenge that was stigmatised throughout the 1930s and 1940s.[^50] The government eventually banned spitting in public places and betel chewing declined in popularity among the younger generation until the practice became increasingly uncommon in Singapore by the 1980s.[^51]
 <param ve-image 
@@ -161,6 +164,11 @@ Although betel chewing was first linked to oral cancer in the early 1900s and co
 
 ## A Sustained Memory
 Betel chewing is nowadays largely survived on in Singapore only by Indian, Bangladeshi, and Burmese migrants and tourists and among cultural heritage trails memorialising the impact of betel-nut trade.[^52] However, betel chewing’s popularity remains high across parts of Asia and the Pacific Islands.[^53] As such, it remains a public health concern due to its addictive and carcinogenic properties.[^54] This also speaks to the interacting factors that culminated in the height of the practice’s popularity – from physical addiction to cultural attachment, the story of betel chewing is complex and spans cultural boundaries. Betel chewing has been valued and devalued according to different narratives and is just one aspect of a broader story on the uses and impacts of the intertwined areca palm and betel leaf both in Singapore and the region.
+<param ve-image 
+       url="https://www.roots.gov.sg/CollectionImages/1082705.jpg"
+       title="Areca Nut Palm, William Farquhar Collection of Natural History Drawings"
+       attribution="Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr. G. K. Goh"
+       description="Malacca, early 19th century, watercolour on paper"> 
 
 # References
 
