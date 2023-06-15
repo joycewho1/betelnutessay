@@ -146,7 +146,8 @@ A variety of methods to prepare raw nuts also highlights the different uses of t
 <param ve-image 
        url="https://www.roots.gov.sg/CollectionImages/1161204.jpg"
        title="Workers at a betel nut plantation, Singapore, c. 1880s-1890s"
-       attribution="Collection of the National Museum of Singapore, National Heritage Board"> 
+       attribution="Collection of the National Museum of Singapore, National Heritage Board"
+       fit="contain"> 
 
 ## Decline of Betel Chewing in Singapore
 While betel chewing was accepted, practiced, and valued by Asian communities in Singapore throughout the 19th and 20th century, the European community generally viewed betel chewing with disdain and prejudice.[^45] They associated betel chewing with tobacco chewing which was tied to lower classes of society.[^46] Moreover, the visceral impact of stained red lips and blackened teeth associated with daily chewing were deemed “vulgar” and “foul”.[^47]
