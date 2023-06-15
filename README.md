@@ -169,7 +169,8 @@ Betel chewing is nowadays largely survived on in Singapore only by Indian, Bangl
        url="https://www.roots.gov.sg/CollectionImages/1082705.jpg"
        title="Areca Nut Palm, William Farquhar Collection of Natural History Drawings"
        attribution="Collection of the National Museum of Singapore, National Heritage Board. Gift of Mr. G. K. Goh"
-       description="Malacca, early 19th century, watercolour on paper"> 
+       description="Malacca, early 19th century, watercolour on paper"
+       fit="contain"> 
 
 # References
 
